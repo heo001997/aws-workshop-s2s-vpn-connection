@@ -10,12 +10,12 @@ Fill out the form as follows, with explanations:
 2. **Local IPv4 Network CIDR:** Fill in our **VPC - DC** CIDR **(192.168.0.0/16)**.
 3. **Remote IPv4 Network CIDR:** Fill in our **VPC - AWS** CIDR **(10.10.0.0/16)**.
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-481145-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-744740-image.png)
 
 
 That’s everything, click "Create" You should see the new VPN connection from **AWS to DC**. We will move on to the next step while waiting for this VPN to be ready.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-936545-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-785916-image.png)
 
 

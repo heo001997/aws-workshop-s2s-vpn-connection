@@ -7,6 +7,6 @@ weight = 2
 Do the same as above: fill out the form and click "Create".
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/15-998110-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/15-907498-image.png)
 
 

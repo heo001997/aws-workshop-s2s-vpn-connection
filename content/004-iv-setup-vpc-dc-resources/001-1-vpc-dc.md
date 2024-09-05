@@ -7,6 +7,6 @@ weight = 1
 Fill out the form and click "Create."
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/14-782898-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/14-821656-image.png)
 
 

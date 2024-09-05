@@ -1,1 +1,215 @@
-KysrCnRpdGxlID0gIjIuIFNldHVwIE9wZW5zd2FuIG9uIEVDMiAtIERDIC0gRUMyIE9wZW5zd2FuIEdhdGV3YXkiCndlaWdodCA9IDIKKysrCgoKQ2xpY2sgIkRvd25sb2FkIENvbmZpZ3VyYXRpb24iIFdlIHdpbGwgdXNlIHRoaXMgY29uZmlndXJhdGlvbiB0byBzZXQgdXAgb3VyIE9wZW5zd2FuIGdhdGV3YXkuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA2LXZpLXNpdGUtdG8tc2l0ZS12cG4tYXdzLXRvLWRjLzI4LTYzMjY1My1pbWFnZS5wbmcpCgoKU2VsZWN0IHRoZSBvcHRpb25zIGFzIHNob3duLCBhbmQgY2xpY2sgIkRvd25sb2FkIgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNi12aS1zaXRlLXRvLXNpdGUtdnBuLWF3cy10by1kYy8yOC02OTc5OTUtaW1hZ2UucG5nKQoKCk9wZW4gdGhhdCBmaWxlLCBhbmQgeW91IGNhbiBzZWUgYWxsIHRoZSBpbnN0cnVjdGlvbnMuIFlvdSBjYW4gcmVhZCBpdCB0byBsZWFybiBtb3JlIGRldGFpbHMuCgoKRm9yIG5vdywgbGV04oCZcyBmb2N1cyBvbiBjZXJ0YWluIHBhcnRzIG9mIHRoZSBgSVBTRUMgVHVubmVsICMxYCBjb25maWd1cmF0aW9uLCBzdWNoIGFzIGBjb25uYCBhbmQgYHNlY3JldHNgLCBhcyBzaG93biBiZWxvdzoKCgpgYGBiYXNoCi0tLQpJUFNFQyBUdW5uZWwgIzEKLS0tCi4uLgpjb25uIFR1bm5lbDEKCWF1dGhieT1zZWNyZXQKCWF1dG89c3RhcnQKCWxlZnQ9JWRlZmF1bHRyb3V0ZQoJbGVmdGlkPTU0Ljg1LjE0OS4xNDMKCXJpZ2h0PTMuMjI1LjIwLjIxOQoJdHlwZT10dW5uZWwKCWlrZWxpZmV0aW1lPThoCglrZXlsaWZlPTFoCglwaGFzZTJhbGc9YWVzMTI4LXNoYTE7bW9kcDEwMjQKCWlrZT1hZXMxMjgtc2hhMTttb2RwMTAyNAoJYXV0aD1lc3AKCWtleWluZ3RyaWVzPSVmb3JldmVyCglrZXlleGNoYW5nZT1pa2UKCWxlZnRzdWJuZXQ9PExPQ0FMIE5FVFdPUks+CglyaWdodHN1Ym5ldD08UkVNT1RFIE5FVFdPUks+CglkcGRkZWxheT0xMAoJZHBkdGltZW91dD0zMAoJZHBkYWN0aW9uPXJlc3RhcnRfYnlfcGVlcgouLi4KNSkgQ3JlYXRlIGEgbmV3IGZpbGUgYXQgL2V0Yy9pcHNlYy5kL2F3cy5zZWNyZXRzIGlmIGl0IGRvZXNuJ3QgYWxyZWFkeSBleGlzdCwgYW5kIGFwcGVuZCB0aGlzIGxpbmUgdG8gdGhlIGZpbGUgKGJlIG1pbmRmdWwgb2YgdGhlIHNwYWNpbmchKToKNTQuODUuMTQ5LjE0MyAzLjIyNS4yMC4yMTk6IFBTSyAieWlvSFRYZEUyOUpWMkhtY0RweDhuWGh6UXdrZFI1RlciCi4uLgpgYGAKCgpXZeKAmWxsIG5lZWQgdG8gdXNlIHRoZXNlIHR3byBjb25maWd1cmF0aW9ucy9jcmVkZW50aWFscywgYW5kIHdlIHdpbGwgYnVpbGQgdGhlIGNvbW1hbmQgdG8gYWRkIHRoZSBgY29ubmAgY29uZmlndXJhdGlvbiBhcyBmb2xsb3dzOgoKMS4gUmVtb3ZlIGBhdXRoPWVzcGAgdG8gYXZvaWQgY29uZmxpY3RzIHdpdGggdGhlIEFtYXpvbiBMaW51eCAyIEFNSSAtIFZQTiBjb25maWd1cmF0aW9uLgoyLiBVcGRhdGUgYGxlZnRzdWJuZXQ9MTkyLjE2OC4wLjAvMTZgIHRvIG1hdGNoIHRoZSBjdXJyZW50ICoqVlBDIC0gREMqKiBDSURSIChMb2NhbCkuCjMuIFVwZGF0ZSBgcmlnaHRzdWJuZXQ9MTAuMTAuMC4wLzE2YCB0byBtYXRjaCB0aGUgY3VycmVudCBWUEMgKipWUEMgLSBBV1MqKiBDSURSIChSZW1vdGUpLgo0LiBLZWVwIGV2ZXJ5dGhpbmcgZWxzZSBpbiB0aGUgY29uZmlndXJhdGlvbiB0aGUgc2FtZS4KClNvIG15IGBhZGQgY29ubmAgY29tbWFuZCB3aWxsIGxvb2sgbGlrZSB0aGlzOgoKCmBgYGJhc2gKc3VkbyBiYXNoIC1jICdjYXQgPDxFT0YgPiAvZXRjL2lwc2VjLmQvYXdzLmNvbmYKY29ubiBUdW5uZWwxCiAgYXV0aGJ5PXNlY3JldAogIGF1dG89c3RhcnQKICBsZWZ0PSVkZWZhdWx0cm91dGUKICBsZWZ0aWQ9NTQuODUuMTQ5LjE0MwogIHJpZ2h0PTMuMjI1LjIwLjIxOQogIHR5cGU9dHVubmVsCiAgaWtlbGlmZXRpbWU9OGgKICBrZXlsaWZlPTFoCiAgcGhhc2UyYWxnPWFlczEyOC1zaGExO21vZHAxMDI0CiAgaWtlPWFlczEyOC1zaGExO21vZHAxMDI0CiAga2V5aW5ndHJpZXM9JWZvcmV2ZXIKICBrZXlleGNoYW5nZT1pa2UKICBsZWZ0c3VibmV0PTE5Mi4xNjguMC4wLzE2CiAgcmlnaHRzdWJuZXQ9MTAuMTAuMC4wLzE2CiAgZHBkZGVsYXk9MTAKICBkcGR0aW1lb3V0PTMwCiAgZHBkYWN0aW9uPXJlc3RhcnRfYnlfcGVlcgpFT0YnCmNhdCAvZXRjL2lwc2VjLmQvYXdzLmNvbmYKYGBgCgoKTmV4dCBzdGVwLCBsb29rIGF0IHRoZSByZW1haW5pbmcgcGFydHMgb2YgdGhlIGRvd25sb2FkZWQgY29uZmlndXJhdGlvbiBmaWxlLgoKCmBgYGJhc2gKNSkgQ3JlYXRlIGEgbmV3IGZpbGUgYXQgL2V0Yy9pcHNlYy5kL2F3cy5zZWNyZXRzIGlmIGl0IGRvZXNuJ3QgYWxyZWFkeSBleGlzdCwgYW5kIGFwcGVuZCB0aGlzIGxpbmUgdG8gdGhlIGZpbGUgKGJlIG1pbmRmdWwgb2YgdGhlIHNwYWNpbmchKToKNTQuODUuMTQ5LjE0MyAzLjIyNS4yMC4yMTk6IFBTSyAieWlvSFRYZEUyOUpWMkhtY0RweDhuWGh6UXdrZFI1RlciCmBgYAoKCldlIHdpbGwgYnVpbGQgb3VyIGBhZGQgc2VjcmV0YCBjb21tYW5kIGJ5IGluc2VydGluZyB0aGUga2V5IGluIHRoZSBtaWRkbGUgb2YgdGhpcyBjb21tYW5kLgoKCmBgYGJhc2gKc3VkbyBiYXNoIC1jICdjYXQgPDxFT0YgPiAvZXRjL2lwc2VjLmQvYXdzLnNlY3JldHMKNTQuODUuMTQ5LjE0MyAzLjIyNS4yMC4yMTk6IFBTSyAieWlvSFRYZEUyOUpWMkhtY0RweDhuWGh6UXdrZFI1RlciCkVPRicKY2F0IC9ldGMvaXBzZWMuZC9hd3Muc2VjcmV0cwpgYGAKCgpOaWNlISBOb3cgU1NIIGludG8gKipEQyAtIEVDMiAtIE9wZW5zd2FuIEdhdGV3YXkqKiBhZ2Fpbi4gV2Ugd2lsbCBmb2xsb3cgYSBzZXJpZXMgb2Ygc3RlcHMgdG8gc2V0IHVwIE9wZW5zd2FuLgoKCmBgYGJhc2gKIyBDaGFuZ2UgdG8gc3UgdXNlciwgd2Ugd2lsbCBoYXZlIGZ1bGwgcGVybWlzc2lvbnMgdG8gcnVuIGFsbCBjb21tYW5kcwpzdWRvIHN1CgojIEluc3RhbGwgb3BlbnN3YW4KeXVtIGluc3RhbGwgb3BlbnN3YW4gLXkKCiMgRWRpdCBgL2V0Yy9zeXNjdGwuY29uZmAgdG8gYXZvaWQgcmVkaXJlY3QgYXR0YWNoCnN1ZG8gYmFzaCAtYyAnY2F0IDw8RU9GID4gL2V0Yy9zeXNjdGwuY29uZgpuZXQuaXB2NC5pcF9mb3J3YXJkID0gMQpuZXQuaXB2NC5jb25mLmFsbC5hY2NlcHRfcmVkaXJlY3RzID0gMApuZXQuaXB2NC5jb25mLmFsbC5zZW5kX3JlZGlyZWN0cyA9IDAKRU9GJwpjYXQgL2V0Yy9zeXNjdGwuY29uZgoKIyBSdW4gdGhlIGBhZGQgY29ubiBjb21tYW5kYCB0aGF0IHlvdSBqdXN0IGJ1aWx0CiMgVGhpcyBpcyBteSBgYWRkIGNvbm4gY29tbWFuZGAgY29tbWFuZCwgcmVtZW1iZXIgdG8gcnVuIFlPVVIgaW5zdGVhZApzdWRvIGJhc2ggLWMgJ2NhdCA8PEVPRiA+IC9ldGMvaXBzZWMuZC9hd3MuY29uZgpjb25uIFR1bm5lbDEKICBhdXRoYnk9c2VjcmV0CiAgYXV0bz1zdGFydAogIGxlZnQ9JWRlZmF1bHRyb3V0ZQogIGxlZnRpZD01NC44NS4xNDkuMTQzCiAgcmlnaHQ9My4yMjUuMjAuMjE5CiAgdHlwZT10dW5uZWwKICBpa2VsaWZldGltZT04aAogIGtleWxpZmU9MWgKICBwaGFzZTJhbGc9YWVzMTI4LXNoYTE7bW9kcDEwMjQKICBpa2U9YWVzMTI4LXNoYTE7bW9kcDEwMjQKICBrZXlpbmd0cmllcz0lZm9yZXZlcgogIGtleWV4Y2hhbmdlPWlrZQogIGxlZnRzdWJuZXQ9MTkyLjE2OC4wLjAvMTYKICByaWdodHN1Ym5ldD0xMC4xMC4wLjAvMTYKICBkcGRkZWxheT0xMAogIGRwZHRpbWVvdXQ9MzAKICBkcGRhY3Rpb249cmVzdGFydF9ieV9wZWVyCkVPRicKY2F0IC9ldGMvaXBzZWMuZC9hd3MuY29uZgoKIyBSdW4gdGhlIGBhZGQgc2VjcmV0IGNvbW1hbmRgIHRoYXQgeW91IGp1c3QgYnVpbHQKIyBUaGlzIGlzIG15IGBhZGQgc2VjcmV0IGNvbW1hbmRgIGNvbW1hbmQsIHJlbWVtYmVyIHRvIHJ1biBZT1VSIGluc3RlYWQKc3VkbyBiYXNoIC1jICdjYXQgPDxFT0YgPiAvZXRjL2lwc2VjLmQvYXdzLnNlY3JldHMKNTQuODUuMTQ5LjE0MyAzLjIyNS4yMC4yMTk6IFBTSyAieWlvSFRYZEUyOUpWMkhtY0RweDhuWGh6UXdrZFI1RlciCkVPRicKY2F0IC9ldGMvaXBzZWMuZC9hd3Muc2VjcmV0cwoKIyBBcHBseSBuZXcgY29uZmlnIGFuZCByZXN0YXJ0wqAqKk5ldHdvcmsgc2VydmljZSAmIElQc2VjIHNlcnZpY2UqKgpzdWRvIHN5c2N0bCAtcCAjIEFwcGx5IG5ldyBzeXNjdGwgY29uZmlnCnN1ZG8gY2hrY29uZmlnIGlwc2VjIG9uICMgRW5zdXJlcyBJUHNlYyBzZXJ2aWNlIGlzIGVuYWJsZWQgb24gYm9vdC4Kc3VkbyBzZXJ2aWNlIG5ldHdvcmsgcmVzdGFydApzdWRvIHNlcnZpY2UgaXBzZWMgcmVzdGFydAoKIyBSZWFkIElQc2VjIGxvZyAKc3VkbyBqb3VybmFsY3RsIC11IGlwc2VjIC1mCgpgYGAKCgpDaGVjayBpZiBJUHNlYyBoYXMgc3RhcnRlZCB5ZXQKCgpgYGBiYXNoCiMgQ2hlY2sgSVBzZWMgYW5kIG5ldHdvcmsgc3RhdHVzCnN1ZG8gc2VydmljZSBpcHNlYyBzdGF0dXMKYGBgCgoKTWluZSBpcyBnb29kIG5vdywgeW91IGNhbiBzZWUgaXQgc2hvd3MgYEFjdGl2ZTogYWN0aXZlIChydW5uaW5nKWAKCgpgYGBiYXNoCltyb290QGlwLTE5Mi0xNjgtMS0yMDYgZWMyLXVzZXJdIyBzdWRvIHNlcnZpY2UgaXBzZWMgc3RhdHVzIApSZWRpcmVjdGluZyB0byAvYmluL3N5c3RlbWN0bCBzdGF0dXMgaXBzZWMuc2VydmljZQril48gaXBzZWMuc2VydmljZSAtIEludGVybmV0IEtleSBFeGNoYW5nZSAoSUtFKSBQcm90b2NvbCBEYWVtb24gZm9yIElQc2VjCiAgIExvYWRlZDogbG9hZGVkICgvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS9pcHNlYy5zZXJ2aWNlOyBlbmFibGVkOyB2ZW5kb3IgcHJlc2V0OiBkaXNhYmxlZCkKICAgQWN0aXZlOiBhY3RpdmUgKHJ1bm5pbmcpIHNpbmNlIFR1ZSAyMDI0LTA4LTI3IDE4OjE2OjI2IFVUQzsgMzVzIGFnbwogICAgIERvY3M6IG1hbjppcHNlYyg4KQogICAgICAgICAgIG1hbjpwbHV0byg4KQogICAgICAgICAgIG1hbjppcHNlYy5jb25mKDUpCiAgUHJvY2VzczogMTE2OCBFeGVjU3RhcnRQcmU9L3Vzci9zYmluL2lwc2VjIC0tY2hlY2tuZmxvZyAoY29kZT1leGl0ZWQsIHN0YXR1cz0wL1NVQ0NFU1MpCiAgUHJvY2VzczogMTE2MiBFeGVjU3RhcnRQcmU9L3Vzci9zYmluL2lwc2VjIC0tY2hlY2tuc3MgKGNvZGU9ZXhpdGVkLCBzdGF0dXM9MC9TVUNDRVNTKQogIFByb2Nlc3M6IDYyOCBFeGVjU3RhcnRQcmU9L3Vzci9saWJleGVjL2lwc2VjL19zdGFja21hbmFnZXIgc3RhcnQgKGNvZGU9ZXhpdGVkLCBzdGF0dXM9MC9TVUNDRVNTKQogIFByb2Nlc3M6IDYyNiBFeGVjU3RhcnRQcmU9L3Vzci9saWJleGVjL2lwc2VjL2FkZGNvbm4gLS1jb25maWcgL2V0Yy9pcHNlYy5jb25mIC0tY2hlY2tjb25maWcgKGNvZGU9ZXhpdGVkLCBzdGF0dXM9MC9TVUNDRVNTKQogTWFpbiBQSUQ6IDExODYgKHBsdXRvKQogICBTdGF0dXM6ICJTdGFydHVwIGNvbXBsZXRlZC4iCiAgIENHcm91cDogL3N5c3RlbS5zbGljZS9pcHNlYy5zZXJ2aWNlCiAgICAgICAgICAg4pSU4pSAMTE4NiAvdXNyL2xpYmV4ZWMvaXBzZWMvcGx1dG8gLS1sZWFrLWRldGVjdGl2ZSAtLWNvbmZpZyAvZXRjL2lwc2VjLmNvbmYgLS1ub2ZvcmsKCkF1ZyAyNyAxODoxNjoyNiBpcC0xOTItMTY4LTEtMjA2LmVjMi5pbnRlcm5hbCBwbHV0b1sxMTg2XTogfCBzZXR1cCBjYWxsYmFjayBmb3IgaW50ZXJmYWNlIGV0aDA6NTAwIGZkIDE1CkF1ZyAyNyAxODoxNjoyNiBpcC0xOTItMTY4LTEtMjA2LmVjMi5pbnRlcm5hbCBwbHV0b1sxMTg2XTogbG9hZGluZyBzZWNyZXRzIGZyb20gIi9ldGMvaXBzZWMuc2VjcmV0cyIKQXVnIDI3IDE4OjE2OjI2IGlwLTE5Mi0xNjgtMS0yMDYuZWMyLmludGVybmFsIHBsdXRvWzExODZdOiBsb2FkaW5nIHNlY3JldHMgZnJvbSAiL2V0Yy9pcHNlYy5kL2F3cy5zZWNyZXRzIgpBdWcgMjcgMTg6MTY6MjYgaXAtMTkyLTE2OC0xLTIwNi5lYzIuaW50ZXJuYWwgcGx1dG9bMTE4Nl06ICJUdW5uZWwxIiAjMTogaW5pdGlhdGluZyBNYWluIE1vZGUKQXVnIDI3IDE4OjE2OjI2IGlwLTE5Mi0xNjgtMS0yMDYuZWMyLmludGVybmFsIHBsdXRvWzExODZdOiAiVHVubmVsMSIgIzE6IFNUQVRFX01BSU5fSTI6IHNlbnQgTUkyLCBleHBlY3RpbmcgTVIyCkF1ZyAyNyAxODoxNjoyNiBpcC0xOTItMTY4LTEtMjA2LmVjMi5pbnRlcm5hbCBwbHV0b1sxMTg2XTogIlR1bm5lbDEiICMxOiBTVEFURV9NQUlOX0kzOiBzZW50IE1JMywgZXhwZWN0aW5nIE1SMwpBdWcgMjcgMTg6MTY6MjYgaXAtMTkyLTE2OC0xLTIwNi5lYzIuaW50ZXJuYWwgcGx1dG9bMTE4Nl06ICJUdW5uZWwxIiAjMTogUGVlciBJRCBpcyBJRF9JUFY0X0FERFI6ICczLjIyNS4yMC4yMTknCkF1ZyAyNyAxODoxNjoyNiBpcC0xOTItMTY4LTEtMjA2LmVjMi5pbnRlcm5hbCBwbHV0b1sxMTg2XTogIlR1bm5lbDEiICMxOiBTVEFURV9NQUlOX0k0OiBJU0FLTVAgU0EgZXN0YWJsaXNoZWQge2F1dGg9UFJFU0hBUkVEX0tFWSBjaXBoZXI9YWVzXzEyOCBpbnRlZz1zaGEgZ3JvdXA9TU9EUDEwMjR9CkF1ZyAyNyAxODoxNjoyNiBpcC0xOTItMTY4LTEtMjA2LmVjMi5pbnRlcm5hbCBwbHV0b1sxMTg2XTogIlR1bm5lbDEiICMyOiBpbml0aWF0aW5nIFF1aWNrIE1vZGUgUFNLK0VOQ1JZUFQrVFVOTkVMK1BGUytVUCtJS0VWMV9BTExPVytJS0VWMl9BTExPVytTQVJFRl9UUkFDSytJS0VfRlJBR19BTC4uLj1NT0RQMTAyNH0KQXVnIDI3IDE4OjE2OjI3IGlwLTE5Mi0xNjgtMS0yMDYuZWMyLmludGVybmFsIHBsdXRvWzExODZdOiAiVHVubmVsMSIgIzI6IFNUQVRFX1FVSUNLX0kyOiBzZW50IFFJMiwgSVBzZWMgU0EgZXN0YWJsaXNoZWQgdHVubmVsIG1vZGUge0VTUC9OQVQ9PjB4YzRmODIwZmQgPDB4NWIyZDFmOTIgeGZyLi4uUEQ9YWN0aXZlfQpIaW50OiBTb21lIGxpbmVzIHdlcmUgZWxsaXBzaXplZCwgdXNlIC1sIHRvIHNob3cgaW4gZnVsbC4KYGBgCgoK
++++
+title = "2. Setup Openswan on EC2 - DC - EC2 Openswan Gateway"
+weight = 2
++++
+
+
+Click "Download Configuration" We will use this configuration to set up our Openswan gateway.
+
+
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-217764-image.png)
+
+
+Select the options as shown, and click "Download"
+
+
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-953824-image.png)
+
+
+Open that file, and you can see all the instructions. You can read it to learn more details.
+
+
+For now, let’s focus on certain parts of the `IPSEC Tunnel #1` configuration, such as `conn` and `secrets`, as shown below:
+
+
+```bash
+---
+IPSEC Tunnel #1
+---
+...
+conn Tunnel1
+	authby=secret
+	auto=start
+	left=%defaultroute
+	leftid=54.85.149.143
+	right=3.225.20.219
+	type=tunnel
+	ikelifetime=8h
+	keylife=1h
+	phase2alg=aes128-sha1;modp1024
+	ike=aes128-sha1;modp1024
+	auth=esp
+	keyingtries=%forever
+	keyexchange=ike
+	leftsubnet=<LOCAL NETWORK>
+	rightsubnet=<REMOTE NETWORK>
+	dpddelay=10
+	dpdtimeout=30
+	dpdaction=restart_by_peer
+...
+5) Create a new file at /etc/ipsec.d/aws.secrets if it doesn't already exist, and append this line to the file (be mindful of the spacing!):
+54.85.149.143 3.225.20.219: PSK "yioHTXdE29JV2HmcDpx8nXhzQwkdR5FW"
+...
+```
+
+
+We’ll need to use these two configurations/credentials, and we will build the command to add the `conn` configuration as follows:
+
+1. Remove `auth=esp` to avoid conflicts with the Amazon Linux 2 AMI - VPN configuration.
+2. Update `leftsubnet=192.168.0.0/16` to match the current **VPC - DC** CIDR (Local).
+3. Update `rightsubnet=10.10.0.0/16` to match the current VPC **VPC - AWS** CIDR (Remote).
+4. Keep everything else in the configuration the same.
+
+So my `add conn` command will look like this:
+
+
+```bash
+sudo bash -c 'cat <<EOF > /etc/ipsec.d/aws.conf
+conn Tunnel1
+  authby=secret
+  auto=start
+  left=%defaultroute
+  leftid=54.85.149.143
+  right=3.225.20.219
+  type=tunnel
+  ikelifetime=8h
+  keylife=1h
+  phase2alg=aes128-sha1;modp1024
+  ike=aes128-sha1;modp1024
+  keyingtries=%forever
+  keyexchange=ike
+  leftsubnet=192.168.0.0/16
+  rightsubnet=10.10.0.0/16
+  dpddelay=10
+  dpdtimeout=30
+  dpdaction=restart_by_peer
+EOF'
+cat /etc/ipsec.d/aws.conf
+```
+
+
+Next step, look at the remaining parts of the downloaded configuration file.
+
+
+```bash
+5) Create a new file at /etc/ipsec.d/aws.secrets if it doesn't already exist, and append this line to the file (be mindful of the spacing!):
+54.85.149.143 3.225.20.219: PSK "yioHTXdE29JV2HmcDpx8nXhzQwkdR5FW"
+```
+
+
+We will build our `add secret` command by inserting the key in the middle of this command.
+
+
+```bash
+sudo bash -c 'cat <<EOF > /etc/ipsec.d/aws.secrets
+54.85.149.143 3.225.20.219: PSK "yioHTXdE29JV2HmcDpx8nXhzQwkdR5FW"
+EOF'
+cat /etc/ipsec.d/aws.secrets
+```
+
+
+Nice! Now SSH into **DC - EC2 - Openswan Gateway** again. We will follow a series of steps to set up Openswan.
+
+
+```bash
+# Change to su user, we will have full permissions to run all commands
+sudo su
+
+# Install openswan
+yum install openswan -y
+
+# Edit `/etc/sysctl.conf` to avoid redirect attach
+sudo bash -c 'cat <<EOF > /etc/sysctl.conf
+net.ipv4.ip_forward = 1
+net.ipv4.conf.all.accept_redirects = 0
+net.ipv4.conf.all.send_redirects = 0
+EOF'
+cat /etc/sysctl.conf
+
+# Run the `add conn command` that you just built
+# This is my `add conn command` command, remember to run YOUR instead
+sudo bash -c 'cat <<EOF > /etc/ipsec.d/aws.conf
+conn Tunnel1
+  authby=secret
+  auto=start
+  left=%defaultroute
+  leftid=54.85.149.143
+  right=3.225.20.219
+  type=tunnel
+  ikelifetime=8h
+  keylife=1h
+  phase2alg=aes128-sha1;modp1024
+  ike=aes128-sha1;modp1024
+  keyingtries=%forever
+  keyexchange=ike
+  leftsubnet=192.168.0.0/16
+  rightsubnet=10.10.0.0/16
+  dpddelay=10
+  dpdtimeout=30
+  dpdaction=restart_by_peer
+EOF'
+cat /etc/ipsec.d/aws.conf
+
+# Run the `add secret command` that you just built
+# This is my `add secret command` command, remember to run YOUR instead
+sudo bash -c 'cat <<EOF > /etc/ipsec.d/aws.secrets
+54.85.149.143 3.225.20.219: PSK "yioHTXdE29JV2HmcDpx8nXhzQwkdR5FW"
+EOF'
+cat /etc/ipsec.d/aws.secrets
+
+# Apply new config and restart **Network service & IPsec service**
+sudo sysctl -p # Apply new sysctl config
+sudo chkconfig ipsec on # Ensures IPsec service is enabled on boot.
+sudo service network restart
+sudo service ipsec restart
+
+# Read IPsec log 
+sudo journalctl -u ipsec -f
+
+```
+
+
+Check if IPsec has started yet
+
+
+```bash
+# Check IPsec and network status
+sudo service ipsec status
+```
+
+
+Mine is good now, you can see it shows `Active: active (running)`
+
+
+```bash
+[root@ip-192-168-1-206 ec2-user]# sudo service ipsec status 
+Redirecting to /bin/systemctl status ipsec.service
+● ipsec.service - Internet Key Exchange (IKE) Protocol Daemon for IPsec
+   Loaded: loaded (/usr/lib/systemd/system/ipsec.service; enabled; vendor preset: disabled)
+   Active: active (running) since Tue 2024-08-27 18:16:26 UTC; 35s ago
+     Docs: man:ipsec(8)
+           man:pluto(8)
+           man:ipsec.conf(5)
+  Process: 1168 ExecStartPre=/usr/sbin/ipsec --checknflog (code=exited, status=0/SUCCESS)
+  Process: 1162 ExecStartPre=/usr/sbin/ipsec --checknss (code=exited, status=0/SUCCESS)
+  Process: 628 ExecStartPre=/usr/libexec/ipsec/_stackmanager start (code=exited, status=0/SUCCESS)
+  Process: 626 ExecStartPre=/usr/libexec/ipsec/addconn --config /etc/ipsec.conf --checkconfig (code=exited, status=0/SUCCESS)
+ Main PID: 1186 (pluto)
+   Status: "Startup completed."
+   CGroup: /system.slice/ipsec.service
+           └─1186 /usr/libexec/ipsec/pluto --leak-detective --config /etc/ipsec.conf --nofork
+
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: | setup callback for interface eth0:500 fd 15
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: loading secrets from "/etc/ipsec.secrets"
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: loading secrets from "/etc/ipsec.d/aws.secrets"
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #1: initiating Main Mode
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #1: STATE_MAIN_I2: sent MI2, expecting MR2
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #1: STATE_MAIN_I3: sent MI3, expecting MR3
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #1: Peer ID is ID_IPV4_ADDR: '3.225.20.219'
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #1: STATE_MAIN_I4: ISAKMP SA established {auth=PRESHARED_KEY cipher=aes_128 integ=sha group=MODP1024}
+Aug 27 18:16:26 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #2: initiating Quick Mode PSK+ENCRYPT+TUNNEL+PFS+UP+IKEV1_ALLOW+IKEV2_ALLOW+SAREF_TRACK+IKE_FRAG_AL...=MODP1024}
+Aug 27 18:16:27 ip-192-168-1-206.ec2.internal pluto[1186]: "Tunnel1" #2: STATE_QUICK_I2: sent QI2, IPsec SA established tunnel mode {ESP/NAT=>0xc4f820fd <0x5b2d1f92 xfr...PD=active}
+Hint: Some lines were ellipsized, use -l to show in full.
+```
+
+

@@ -1,1 +1,10 @@
-KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJJVi4gU2V0dXAgVlBDIERDIHJlc291cmNlcyIKd2VpZ2h0ID0gNAorKysKCgpNb3ZlIG9uIHRvIHRoaXMgc3RlcCwgdGhpcyB3aWxsIGNyZWF0ZSByZXNvdXJjZXMgdG8gYWN0IGFzIGEgcmVndWxhciBvbi1wcmVtaXNlcyBkYXRhIGNlbnRlci4gTGlrZSB0aGUgcHJldmlvdXMgc3RlcCwgSSB3b27igJl0IHNldCB1cCBhbnl0aGluZyByZWxhdGVkIHRvIHRoZSBzaXRlLXRvLXNpdGUgY29ubmVjdGlvbiB5ZXQuCgoK
++++
+archetype = "chapter"
+title = "IV. Setup VPC DC resources"
+weight = 4
++++
+
+
+Move on to this step, this will create resources to act as a regular on-premises data center. Like the previous step, I won’t set up anything related to the site-to-site connection yet.
+
+

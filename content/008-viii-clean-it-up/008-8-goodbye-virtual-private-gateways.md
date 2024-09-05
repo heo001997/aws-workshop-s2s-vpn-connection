@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjguIEdvb2RieWUgVmlydHVhbCBQcml2YXRlIEdhdGV3YXlzIgp3ZWlnaHQgPSA4CisrKwoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwOC12aWlpLWNsZWFuLWl0LXVwLzQwLTg4NDI1Mi1pbWFnZS5wbmcpCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvNDAtOTk0OTE5LWltYWdlLnBuZykKCgo=
++++
+title = "8. Goodbye Virtual Private Gateways"
+weight = 8
++++
+
+
+![image.png](/images/008-viii-clean-it-up/40-770233-image.png)
+
+
+![image.png](/images/008-viii-clean-it-up/40-857293-image.png)
+
+

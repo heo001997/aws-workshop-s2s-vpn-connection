@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjEuIFZQQyAtIEFXUyIKd2VpZ2h0ID0gMQorKysKCgpGaXJzdCB0aGluZ3MgZmlyc3QsIGZpbGwgb3V0IHRoZSBmb3JtIGFuZCBjbGljayAiQ3JlYXRlLiIKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDMtaWlpLXNldHVwLXZwYy1hd3MtcmVzb3VyY2VzLzgtOTAzNzc2LWltYWdlLnBuZykKCgo=
++++
+title = "1. VPC - AWS"
+weight = 1
++++
+
+
+First things first, fill out the form and click "Create."
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/8-496201-image.png)
+
+

@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjIuIFN1Ym5ldCAtIEFXUyAtIFByaXZhdGUgc3VibmV0Igp3ZWlnaHQgPSAyCisrKwoKCkRvIHRoZSBzYW1lIGFzIGFib3ZlOiBmaWxsIG91dCB0aGUgZm9ybSBhbmQgY2xpY2sgIkNyZWF0ZS4iCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDAzLWlpaS1zZXR1cC12cGMtYXdzLXJlc291cmNlcy85LTU0Mzg0MC1pbWFnZS5wbmcpCgoK
++++
+title = "2. Subnet - AWS - Private subnet"
+weight = 2
++++
+
+
+Do the same as above: fill out the form and click "Create."
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/9-218238-image.png)
+
+

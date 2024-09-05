@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjEuIFZQQyAtIERDIgp3ZWlnaHQgPSAxCisrKwoKCkZpbGwgb3V0IHRoZSBmb3JtIGFuZCBjbGljayAiQ3JlYXRlLiIKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xNC0xNzIzODQtaW1hZ2UucG5nKQoKCg==
++++
+title = "1. VPC - DC"
+weight = 1
++++
+
+
+Fill out the form and click "Create."
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/14-513455-image.png)
+
+

@@ -1,1 +1,21 @@
-KysrCnRpdGxlID0gIjMuIFJvdXRlIFRhYmxlIC0gREMgLSBQdWJsaWMiCndlaWdodCA9IDMKKysrCgoKRG8gdGhlIHNhbWUgYXMgYWJvdmU6IGZpbGwgb3V0IHRoZSBmb3JtIGFuZCBjbGljayAiQ3JlYXRlIi4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xNi00MDcxNzItaW1hZ2UucG5nKQoKCkFzc29jaWF0ZSB0aGlzIHJvdXRlIHdpdGggdGhlICoqREMgLSBQdWJsaWMgc3VibmV0KiouCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMTYtMTM0NDU2LWltYWdlLnBuZykKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xNi02MTc1MTctaW1hZ2UucG5nKQoKCg==
++++
+title = "3. Route Table - DC - Public"
+weight = 3
++++
+
+
+Do the same as above: fill out the form and click "Create".
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-884028-image.png)
+
+
+Associate this route with the **DC - Public subnet**.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-877321-image.png)
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-311968-image.png)
+
+

@@ -1,1 +1,36 @@
-KysrCnRpdGxlID0gIjYuMSBDcmVhdGUgREMgLSBFQzIgT3BlbnN3YW4gR2F0ZXdheSIKd2VpZ2h0ID0gMQorKysKCgpUaGlzIGZvcm0gaXMgcXVpdGUgbG9uZywgc28gd2Ugd2lsbCBmaWxsIGl0IG91dCBzdGVwIGJ5IHN0ZXAuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMDA2LTYtZWMyLWRjLWVjMi1vcGVuc3dhbi1nYXRld2F5LzIwLTIwMzIyNS1pbWFnZS5wbmcpCgoKQ3JlYXRlIGEga2V5IHBhaXIgdG8gYmUgYWJsZSB0byBTU0ggaW50byBBV1MgLSBFQzIgLSBQcml2YXRlIGlmIHlvdSBkb27igJl0IGFscmVhZHkgaGF2ZSBvbmUuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMDA2LTYtZWMyLWRjLWVjMi1vcGVuc3dhbi1nYXRld2F5LzIwLTQ5NTMxMC1pbWFnZS5wbmcpCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMDA2LTYtZWMyLWRjLWVjMi1vcGVuc3dhbi1nYXRld2F5LzIwLTM1MzMxOC1pbWFnZS5wbmcpCgoKU2VsZWN0IHRoZSBuZXdseSBjcmVhdGVkIGtleSBwYWlyLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNC1pdi1zZXR1cC12cGMtZGMtcmVzb3VyY2VzLzAwNi02LWVjMi1kYy1lYzItb3BlbnN3YW4tZ2F0ZXdheS8yMC02ODc4MTktaW1hZ2UucG5nKQoKCkVkaXQgTmV0d29yayBsaWtlIHRoaXMKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8wMDYtNi1lYzItZGMtZWMyLW9wZW5zd2FuLWdhdGV3YXkvMjAtMTcwMzQyLWltYWdlLnBuZykKCgpXZSBjYW4gY2xpY2sgIkxhdW5jaCBJbnN0YW5jZSIgbm93LCBsZWF2aW5nIHRoZSBvdGhlciBzZXR0aW5ncyBhdCB0aGVpciBkZWZhdWx0cyBpcyBmaW5lLgoKCg==
++++
+title = "6.1 Create DC - EC2 Openswan Gateway"
+weight = 1
++++
+
+
+This form is quite long, so we will fill it out step by step.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-779800-image.png)
+
+
+Create a key pair to be able to SSH into AWS - EC2 - Private if you don’t already have one.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-955920-image.png)
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-198007-image.png)
+
+
+Select the newly created key pair.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-836278-image.png)
+
+
+Edit Network like this
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-235379-image.png)
+
+
+We can click "Launch Instance" now, leaving the other settings at their defaults is fine.
+
+

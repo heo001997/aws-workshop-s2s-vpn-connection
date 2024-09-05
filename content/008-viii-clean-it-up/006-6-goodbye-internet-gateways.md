@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjYuIEdvb2RieWUgSW50ZXJuZXQgR2F0ZXdheXMiCndlaWdodCA9IDYKKysrCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvMzgtNzYwNDQ5LWltYWdlLnBuZykKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDgtdmlpaS1jbGVhbi1pdC11cC8zOC0xMDI3NDQtaW1hZ2UucG5nKQoKCg==
++++
+title = "6. Goodbye Internet Gateways"
+weight = 6
++++
+
+
+![image.png](/images/008-viii-clean-it-up/38-106988-image.png)
+
+
+![image.png](/images/008-viii-clean-it-up/38-661106-image.png)
+
+

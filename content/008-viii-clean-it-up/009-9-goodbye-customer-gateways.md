@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjkuIEdvb2RieWUgQ3VzdG9tZXIgR2F0ZXdheXMiCndlaWdodCA9IDkKKysrCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvNDEtNzI5MDEzLWltYWdlLnBuZykKCgpXZeKAmXJlIG5vdyBhcyBjbGVhbiBhcyBhIHdoaXN0bGUuIAoKCg==
++++
+title = "9. Goodbye Customer Gateways"
+weight = 9
++++
+
+
+![image.png](/images/008-viii-clean-it-up/41-237428-image.png)
+
+
+We’re now as clean as a whistle. 
+
+

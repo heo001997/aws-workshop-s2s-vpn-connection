@@ -1,1 +1,36 @@
-KysrCnRpdGxlID0gIjUuIEludGVybmV0IEdhdGV3YXkgLSBEQyAtIElHVyIKd2VpZ2h0ID0gNQorKysKCgpDcmVhdGUgYW4gSW50ZXJuZXQgR2F0ZXdheSAtIERDIC0gSUdXIHRvIGFsbG93IHRoZSBEQyAtIFZQQyB0byBjb25uZWN0IHRvIHRoZSBpbnRlcm5ldC4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xOC0zMDMyNDYtaW1hZ2UucG5nKQoKCkF0dGFjaCBpdCB0byAqKlZQQyAtIERDKioKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xOC00ODM1ODgtaW1hZ2UucG5nKQoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNC1pdi1zZXR1cC12cGMtZGMtcmVzb3VyY2VzLzE4LTQ2MzA2Ni1pbWFnZS5wbmcpCgoKR28gYmFjayB0byB0aGUgUm91dGUgVGFibGUgYW5kIGVkaXQgaXQgdG8gYWNjZXB0IHRoZSBhdHRhY2hlZCBJbnRlcm5ldCBHYXRld2F5LgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNC1pdi1zZXR1cC12cGMtZGMtcmVzb3VyY2VzLzE4LTM0MDUwMi1pbWFnZS5wbmcpCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMTgtNzE3MTY5LWltYWdlLnBuZykKCgpUaGUgcm91dGUgc2hvdWxkIGxvb2sgbGlrZSB0aGlzCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA0LWl2LXNldHVwLXZwYy1kYy1yZXNvdXJjZXMvMTgtODA1NzczLWltYWdlLnBuZykKCgo=
++++
+title = "5. Internet Gateway - DC - IGW"
+weight = 5
++++
+
+
+Create an Internet Gateway - DC - IGW to allow the DC - VPC to connect to the internet.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-539421-image.png)
+
+
+Attach it to **VPC - DC**
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-266228-image.png)
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-838800-image.png)
+
+
+Go back to the Route Table and edit it to accept the attached Internet Gateway.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-900095-image.png)
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-977679-image.png)
+
+
+The route should look like this
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-974543-image.png)
+
+

@@ -1,1 +1,42 @@
-KysrCnRpdGxlID0gIjUuIEVDMiAtIEFXUyAtIEVDMiBQcml2YXRlIgp3ZWlnaHQgPSA1CisrKwoKClRoaXMgZm9ybSBpcyBxdWl0ZSBsb25nLCBzbyB3ZSB3aWxsIGZpbGwgaXQgb3V0IHN0ZXAgYnkgc3RlcC4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDMtaWlpLXNldHVwLXZwYy1hd3MtcmVzb3VyY2VzLzEyLTI0Nzk5MC1pbWFnZS5wbmcpCgoKQ3JlYXRlIGEga2V5IHBhaXIgdG8gYmUgYWJsZSB0byBTU0ggaW50byAqKkFXUyAtIEVDMiAtIFByaXZhdGUqKiBpZiB5b3UgZG9u4oCZdCBhbHJlYWR5IGhhdmUgb25lLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwMy1paWktc2V0dXAtdnBjLWF3cy1yZXNvdXJjZXMvMTItMzM2NjA4LWltYWdlLnBuZykKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDMtaWlpLXNldHVwLXZwYy1hd3MtcmVzb3VyY2VzLzEyLTU4MjU3OS1pbWFnZS5wbmcpCgoKQWZ0ZXIgY3JlYXRpbmcgdGhlIGtleSBwYWlyLCB5b3UgY2FuIHNlbGVjdCBpdCBub3cuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDAzLWlpaS1zZXR1cC12cGMtYXdzLXJlc291cmNlcy8xMi05NDU1NzEtaW1hZ2UucG5nKQoKCkZvciBuZXR3b3JrIHNldHRpbmdzLCB3ZSB3aWxsIGVkaXQgdGhlbSBhcyBmb2xsb3dzOgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwMy1paWktc2V0dXAtdnBjLWF3cy1yZXNvdXJjZXMvMTItODQ0NjMxLWltYWdlLnBuZykKCgpXZSBjYW4gY2xpY2sgIkxhdW5jaCBJbnN0YW5jZSIgbm93LCBsZWF2aW5nIHRoZSBvdGhlciBzZXR0aW5ncyBhdCB0aGVpciBkZWZhdWx0cyBpcyBmaW5lLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwMy1paWktc2V0dXAtdnBjLWF3cy1yZXNvdXJjZXMvMTItNjIzMTEwLWltYWdlLnBuZykKCgpOb3csIHdl4oCZcmUgZG9uZSBzZXR0aW5nIHVwIHRoZSBWUEMgQVdTIHJlc291cmNlcyEKCgo=
++++
+title = "5. EC2 - AWS - EC2 Private"
+weight = 5
++++
+
+
+This form is quite long, so we will fill it out step by step.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-473141-image.png)
+
+
+Create a key pair to be able to SSH into **AWS - EC2 - Private** if you don’t already have one.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-672995-image.png)
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-944948-image.png)
+
+
+After creating the key pair, you can select it now.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-977070-image.png)
+
+
+For network settings, we will edit them as follows:
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-361021-image.png)
+
+
+We can click "Launch Instance" now, leaving the other settings at their defaults is fine.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-511278-image.png)
+
+
+Now, we’re done setting up the VPC AWS resources!
+
+

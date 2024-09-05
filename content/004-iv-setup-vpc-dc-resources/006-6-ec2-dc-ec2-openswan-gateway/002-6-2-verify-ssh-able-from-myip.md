@@ -1,1 +1,58 @@
-KysrCnRpdGxlID0gIjYuMiBWZXJpZnkgU1NILWFibGUgZnJvbSBNeUlQIgp3ZWlnaHQgPSAyCisrKwoKCkxldOKAmXMgZ28gdG8gdGhlIEluc3RhbmNlIERldGFpbHMsIHlvdSBjYW4gc2VlIHRoYXQgREMgLSBFQzIgT3BlbnN3YW4gR2F0ZXdheSBpcyBhbHJlYWR5IHVwIHdpdGggYSBQdWJsaWMgSVB2NCBhZGRyZXNzLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNC1pdi1zZXR1cC12cGMtZGMtcmVzb3VyY2VzLzAwNi02LWVjMi1kYy1lYzItb3BlbnN3YW4tZ2F0ZXdheS8yMS04NTEwNTMtaW1hZ2UucG5nKQoKCk9wZW4geW91ciB0ZXJtaW5hbCBhbmQgY29ubmVjdCB2aWEgU1NIIHRvIHRoZSAqKkRDIC0gRUMyIE9wZW5zd2FuIEdhdGV3YXkqKiB1c2luZyB0aGUgYGRjLWVjMi1vcGVuc3dhbi1nYXRld2F5LnBlbWAgZmlsZSB3ZSBhbHJlYWR5IGRvd25sb2FkZWQuCgoKTm90ZTogTGluZXMgcHJlY2VkZWQgYnkg4oCYI+KAmSBhcmUgY29tbWVudHMsIHNvIHlvdSBkb27igJl0IGhhdmUgdG8gcnVuIHRob3NlIGNvbW1hbmRzIGluIHRoZSB0ZXJtaW5hbC4KCgpgYGBiYXNoCiMgTW9kaWZ5IGtleXBhaXIgcGVybWlzc2lvbiAocmVxdWlyZWQgYnkgQVdTKQpGb3JtYXQ6CmNobW9kIDQwMCA8cGF0aCB0byB0aGUgZGMtZWMyLW9wZW5zd2FuLWdhdGV3YXkucGVtIGtleT4KCkV4YW1wbGUgLSBteSBmaWxsZWQgY29tbWFuZDoKY2htb2QgNDAwIERvd25sb2Fkcy9kYy1lYzItb3BlbnN3YW4tZ2F0ZXdheS5wZW0KCgojIFN0YXJ0IFNTSApGb3JtYXQ6CnNzaCAtaSA8cGF0aCB0byB0aGUgZGMtZWMyLW9wZW5zd2FuLWdhdGV3YXkucGVtIGtleT4gZWMyLXVzZXJAPFB1YmxpYyBJUHY0PgoKRXhhbXBsZSAtIG15IGZpbGxlZCBjb21tYW5kOgpzc2ggLWkgRG93bmxvYWRzL2RjLWVjMi1vcGVuc3dhbi1nYXRld2F5LnBlbSBlYzItdXNlckA1NC44NS4xNDkuMTQzCmBgYAoKCkkgY2FuIFNTSCBpbnRvIHRoZSAqKkRDIC0gRUMyIE9wZW5zd2FuIEdhdGV3YXkqKiBmcm9tIG15IGxvY2FsIGNvbXB1dGVyIG5vdy4KCgpgYGBiYXNoCiB+IO6CsCBzc2ggLWkgRG93bmxvYWRzL2RjLWVjMi1vcGVuc3dhbi1nYXRld2F5LnBlbSBlYzItdXNlckA1NC44NS4xNDkuMTQzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDugrIg4pyUIOKUgiAzLjMuMCDviJkg4pSCIDEyOjE0OjM3IEFNIAogICAsICAgICAjXwogICB+XF8gICMjIyNfICAgICAgICBBbWF6b24gTGludXggMgogIH5+ICBcXyMjIyMjXAogIH5+ICAgICBcIyMjfCAgICAgICBBTDIgRW5kIG9mIExpZmUgaXMgMjAyNS0wNi0zMC4KICB+fiAgICAgICBcIy8gX19fCiAgIH5+ICAgICAgIFZ+JyAnLT4KICAgIH5+fiAgICAgICAgIC8gICAgQSBuZXdlciB2ZXJzaW9uIG9mIEFtYXpvbiBMaW51eCBpcyBhdmFpbGFibGUhCiAgICAgIH5+Ll8uICAgXy8KICAgICAgICAgXy8gXy8gICAgICAgQW1hem9uIExpbnV4IDIwMjMsIEdBIGFuZCBzdXBwb3J0ZWQgdW50aWwgMjAyOC0wMy0xNS4KICAgICAgIF8vbS8nICAgICAgICAgICBodHRwczovL2F3cy5hbWF6b24uY29tL2xpbnV4L2FtYXpvbi1saW51eC0yMDIzLwoKW2VjMi11c2VyQGlwLTE5Mi0xNjgtMS0yMDYgfl0kIHdob2FtaQplYzItdXNlcgoKYGBgCgoK
++++
+title = "6.2 Verify SSH-able from MyIP"
+weight = 2
++++
+
+
+Let’s go to the Instance Details, you can see that DC - EC2 Openswan Gateway is already up with a Public IPv4 address.
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/21-250441-image.png)
+
+
+Open your terminal and connect via SSH to the **DC - EC2 Openswan Gateway** using the `dc-ec2-openswan-gateway.pem` file we already downloaded.
+
+
+Note: Lines preceded by ‘#’ are comments, so you don’t have to run those commands in the terminal.
+
+
+```bash
+# Modify keypair permission (required by AWS)
+Format:
+chmod 400 <path to the dc-ec2-openswan-gateway.pem key>
+
+Example - my filled command:
+chmod 400 Downloads/dc-ec2-openswan-gateway.pem
+
+
+# Start SSH
+Format:
+ssh -i <path to the dc-ec2-openswan-gateway.pem key> ec2-user@<Public IPv4>
+
+Example - my filled command:
+ssh -i Downloads/dc-ec2-openswan-gateway.pem ec2-user@54.85.149.143
+```
+
+
+I can SSH into the **DC - EC2 Openswan Gateway** from my local computer now.
+
+
+```bash
+ ~  ssh -i Downloads/dc-ec2-openswan-gateway.pem ec2-user@54.85.149.143                                                                                 ✔ │ 3.3.0  │ 12:14:37 AM 
+   ,     #_
+   ~\_  ####_        Amazon Linux 2
+  ~~  \_#####\
+  ~~     \###|       AL2 End of Life is 2025-06-30.
+  ~~       \#/ ___
+   ~~       V~' '->
+    ~~~         /    A newer version of Amazon Linux is available!
+      ~~._.   _/
+         _/ _/       Amazon Linux 2023, GA and supported until 2028-03-15.
+       _/m/'           https://aws.amazon.com/linux/amazon-linux-2023/
+
+[ec2-user@ip-192-168-1-206 ~]$ whoami
+ec2-user
+
+```
+
+

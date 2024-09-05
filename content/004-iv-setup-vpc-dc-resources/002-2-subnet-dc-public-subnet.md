@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjIuIFN1Ym5ldCAtIERDIC0gUHVibGljIHN1Ym5ldCIKd2VpZ2h0ID0gMgorKysKCgpEbyB0aGUgc2FtZSBhcyBhYm92ZTogZmlsbCBvdXQgdGhlIGZvcm0gYW5kIGNsaWNrICJDcmVhdGUiLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNC1pdi1zZXR1cC12cGMtZGMtcmVzb3VyY2VzLzE1LTk3Mzc1NS1pbWFnZS5wbmcpCgoK
++++
+title = "2. Subnet - DC - Public subnet"
+weight = 2
++++
+
+
+Do the same as above: fill out the form and click "Create".
+
+
+![image.png](/images/004-iv-setup-vpc-dc-resources/15-247251-image.png)
+
+

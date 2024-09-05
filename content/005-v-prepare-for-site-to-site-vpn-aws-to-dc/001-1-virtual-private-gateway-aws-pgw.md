@@ -1,1 +1,36 @@
-KysrCnRpdGxlID0gIjEuIFZpcnR1YWwgUHJpdmF0ZSBHYXRld2F5IC0gQVdTIC0gUEdXIgp3ZWlnaHQgPSAxCisrKwoKCkNyZWF0ZSBhIG5ldyBWaXJ0dWFsIFByaXZhdGUgR2F0ZXdheSAtICoqQVdTIC0gUEdXKioKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDUtdi1wcmVwYXJlLWZvci1zaXRlLXRvLXNpdGUtdnBuLWF3cy10by1kYy8yNC00MDQ2NjUtaW1hZ2UucG5nKQoKClJlZnJlc2ggdGhlIHBhZ2UgaWYgaXQgc2F5cyAiU3VjY2VzcyIgYnV0IHNob3dzIG5vdGhpbmcuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA1LXYtcHJlcGFyZS1mb3Itc2l0ZS10by1zaXRlLXZwbi1hd3MtdG8tZGMvMjQtNzU5NzgwLWltYWdlLnBuZykKCgpTZWxlY3QgYW5kIGF0dGFjaCBpdCB0byAqKlZQQyAtIEFXUyoqCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA1LXYtcHJlcGFyZS1mb3Itc2l0ZS10by1zaXRlLXZwbi1hd3MtdG8tZGMvMjQtNjA2ODQzLWltYWdlLnBuZykKCgpFZGl0IHRoZSBSb3V0ZSBUYWJsZSAtICoqQVdTIC0gUHJpdmF0ZSoqIHNvIGl0IGNhbiByb3V0ZSB0cmFmZmljIGZyb20gdGhpcyBWR1cuCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA1LXYtcHJlcGFyZS1mb3Itc2l0ZS10by1zaXRlLXZwbi1hd3MtdG8tZGMvMjQtMjA0NTA2LWltYWdlLnBuZykKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDUtdi1wcmVwYXJlLWZvci1zaXRlLXRvLXNpdGUtdnBuLWF3cy10by1kYy8yNC0zMzU2NzctaW1hZ2UucG5nKQoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNS12LXByZXBhcmUtZm9yLXNpdGUtdG8tc2l0ZS12cG4tYXdzLXRvLWRjLzI0LTU2Mjc4MC1pbWFnZS5wbmcpCgoK
++++
+title = "1. Virtual Private Gateway - AWS - PGW"
+weight = 1
++++
+
+
+Create a new Virtual Private Gateway - **AWS - PGW**
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-371537-image.png)
+
+
+Refresh the page if it says "Success" but shows nothing.
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-805930-image.png)
+
+
+Select and attach it to **VPC - AWS**
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-337898-image.png)
+
+
+Edit the Route Table - **AWS - Private** so it can route traffic from this VGW.
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-723639-image.png)
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-371445-image.png)
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-459353-image.png)
+
+

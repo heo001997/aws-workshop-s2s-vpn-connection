@@ -1,1 +1,24 @@
-KysrCnRpdGxlID0gIjMuIFJvdXRlIFRhYmxlIC0gQVdTIC0gUHJpdmF0ZSIKd2VpZ2h0ID0gMworKysKCgpEbyB0aGUgc2FtZSBhcyBhYm92ZTogZmlsbCBvdXQgdGhlIGZvcm0gYW5kIGNsaWNrICJDcmVhdGUuIgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwMy1paWktc2V0dXAtdnBjLWF3cy1yZXNvdXJjZXMvMTAtOTc5MTgzLWltYWdlLnBuZykKCgpBZGQgc3VibmV0IGFzc29jaWF0aW9uLCB0aGlzIHdpbGwgYWxsb3cgdGhlICoqU3VibmV0IC0gQVdTIC0gUHJpdmF0ZSBzdWJuZXQqKiB0byBmb2xsb3cgdGhlICoqUm91dGUgVGFibGUgLSBBV1MgLSBQcml2YXRlKirigJlzIHJvdXRlcy4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDMtaWlpLXNldHVwLXZwYy1hd3MtcmVzb3VyY2VzLzEwLTkxNDYwOC1pbWFnZS5wbmcpCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDAzLWlpaS1zZXR1cC12cGMtYXdzLXJlc291cmNlcy8xMC0yNzU0MTgtaW1hZ2UucG5nKQoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwMy1paWktc2V0dXAtdnBjLWF3cy1yZXNvdXJjZXMvMTAtODg2NjEwLWltYWdlLnBuZykKCgo=
++++
+title = "3. Route Table - AWS - Private"
+weight = 3
++++
+
+
+Do the same as above: fill out the form and click "Create."
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-999219-image.png)
+
+
+Add subnet association, this will allow the **Subnet - AWS - Private subnet** to follow the **Route Table - AWS - Private**’s routes.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-360887-image.png)
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-867294-image.png)
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-357700-image.png)
+
+

@@ -1,1 +1,25 @@
-KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJWSUkuIENvbmNsdXNpb24iCndlaWdodCA9IDcKKysrCgoKVm9pbGEhIFdoYXQgYSBqb3VybmV5IQoKCkluIHRoaXMgd29ya3Nob3AsIHdl4oCZdmUgdGFja2xlZCBldmVyeXRoaW5n4oCUZnJvbSBhcmNoaXRlY3RpbmcgYW4gb3ZlcnZpZXcgdG8gY29zdCBlc3RpbWF0aW5nLCBzZXR0aW5nIHVwIHByZWNvbmRpdGlvbnMsIGNvbmZpZ3VyaW5nLCBhbmQgdmVyaWZ5aW5nLi4uCgoKRXZlbiB0aG91Z2ggdGhpcyB3b3Jrc2hvcCB3YXMgcmVsYXRpdmVseSBzdHJhaWdodGZvcndhcmQsIEkgYmVsaWV2ZSB3ZSBoYWQgYSBsb3Qgb2YgZnVuIHRpbmtlcmluZywgc2NyaXB0aW5nLCBhbmQgY29tcGxldGluZyBhbGwgdGhlIHRhc2tzLgoKCknigJltIHRocmlsbGVkIHRvIGhhdmUgYmVlbiBoZXJlIHdpdGggeW91IHRvZGF5LCBhbmQgSSBob3BlIHlvdSBlbmpveWVkIHRoZSBleHBlcmllbmNlIGFzIG11Y2ggYXMgSSBkaWQuIOKdpO+4jwoKClNlZSB5b3UgaW4gdGhlIG5leHQgd29ya3Nob3AhCgoKQlVUIERPTuKAmVQgRk9SR0VUIFRPIENMRUFOIFVQIFlPVVIgU1RVRkYhIDopKSkKCgo=
++++
+archetype = "chapter"
+title = "VII. Conclusion"
+weight = 7
++++
+
+
+Voila! What a journey!
+
+
+In this workshop, we’ve tackled everything—from architecting an overview to cost estimating, setting up preconditions, configuring, and verifying...
+
+
+Even though this workshop was relatively straightforward, I believe we had a lot of fun tinkering, scripting, and completing all the tasks.
+
+
+I’m thrilled to have been here with you today, and I hope you enjoyed the experience as much as I did. ❤️
+
+
+See you in the next workshop!
+
+
+BUT DON’T FORGET TO CLEAN UP YOUR STUFF! :)))
+
+

@@ -1,1 +1,9 @@
-KysrCnRpdGxlID0gIjEuIEdvb2RieWUgRUMyIGluc3RhbmNlcyIKd2VpZ2h0ID0gMQorKysKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDgtdmlpaS1jbGVhbi1pdC11cC8zMy01NDIyNTUtaW1hZ2UucG5nKQoKCg==
++++
+title = "1. Goodbye EC2 instances"
+weight = 1
++++
+
+
+![image.png](/images/008-viii-clean-it-up/33-552185-image.png)
+
+

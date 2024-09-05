@@ -1,1 +1,18 @@
-KysrCnRpdGxlID0gIjEuIEJhY2tncm91bmQgJiBPYmplY3RpdmVzIgp3ZWlnaHQgPSAxCisrKwoKCkdpdmUgaXQgdXAgZm9yIG1lbnRvciBHaWEgSHVuZyBhbmQgaGlzIEZpcnN0IENsb3VkIEpvdXJuZXkgdGVhbSBmb3IgYSBncmVhdCBbU2l0ZS10by1TaXRlIFZQTiB3b3Jrc2hvcF0oaHR0cHM6Ly8wMDAwMDMuYXdzc3R1ZHlncm91cC5jb20vMS1pbnRyb2R1Y2UvKS4KCgpJbmhlcml0aW5nIHRoYXQgc3Bpcml0LCB3ZSB3aWxsIGhhdmUgYSBzaW1pbGFyIHRvdXIgYWJvdXQgU2l0ZS10by1TaXRlIFZQTiBidXQgdG8gYSBsZXNzZXIgZXh0ZW50LCB3aGVyZSB3ZSB3aWxsIGhhdmUgZmV3ZXIgVlBDcywgU3VibmV0cywgYW5kIEVDMiBpbnN0YW5jZXMuCgoKV2Ugd2lsbCBwcm92aWRlIGFuIGVhc2llciBwb2ludCBvZiB2aWV3IGZvciBuZXdjb21lcnMsIGZvY3VzaW5nIG9ubHkgb24gU2l0ZS10by1TaXRlIFZQTiB3aXRoIHRoZSBtb3N0IHJlYXNvbmFibGUgY29zdCBwb3NzaWJsZS4KCgpFYWNoIHBpZWNlIG9mIGluZm9ybWF0aW9uIGlzIHByZXNlbnRlZCBpbiBiaXRlLXNpemVkIHBvcnRpb25zLCBtYWtpbmcgaXQgZWFzeSB0byBrZWVwIHVwIHdpdGggdGhlIGd1aWRlIHdpdGhvdXQgZmFsbGluZyBiZWhpbmQuCgoK
++++
+title = "1. Background & Objectives"
+weight = 1
++++
+
+
+Give it up for mentor Gia Hung and his First Cloud Journey team for a great [Site-to-Site VPN workshop](https://000003.awsstudygroup.com/1-introduce/).
+
+
+Inheriting that spirit, we will have a similar tour about Site-to-Site VPN but to a lesser extent, where we will have fewer VPCs, Subnets, and EC2 instances.
+
+
+We will provide an easier point of view for newcomers, focusing only on Site-to-Site VPN with the most reasonable cost possible.
+
+
+Each piece of information is presented in bite-sized portions, making it easy to keep up with the guide without falling behind.
+
+

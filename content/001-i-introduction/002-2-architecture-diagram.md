@@ -1,1 +1,32 @@
-KysrCnRpdGxlID0gIjIuIEFyY2hpdGVjdHVyZSBEaWFncmFtIgp3ZWlnaHQgPSAyCisrKwoKClRha2UgYSBmaXJzdCBsb29rIGF0IHdoYXQgd2XigJlsbCBidWlsZDoKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDEtaS1pbnRyb2R1Y3Rpb24vMy0xODQxOTctaW1hZ2UucG5nKQoKCkRpYWdyYW0gY29udmVudGlvbjoKCgpgYGBiYXNoCkV4YW1wbGU6CkVDMiAtIEFXUyAtIEVDMiBQcml2YXRlClByaXZhdGUgSVAgLSAxMC4xMC4xLngKCkV4cGxhbmF0aW9uOgotIFRoZSBuYW1pbmcgY29udmVudGlvbiBpcyBhbHdheXM6IDxTZXJ2aWNlPiAtIDxTZXJ2aWNlIE5hbWU+ClNhbXBsZTogRUMyIC0gQVdTIC0gRUMyIFByaXZhdGUgPT4gPEVDMj4gLSA8QVdTIC0gRUMyIFByaXZhdGU+CgotIE90aGVyIGxpbmVzIHJlcHJlc2VudCBwcm9wZXJ0aWVzOgpTYW1wbGU6IFByaXZhdGUgSVAgLSAxMC4xMC4xLnggPT4gPFByb3BlcnRpZXM+CmBgYAoKClRoYXQncyBldmVyeXRoaW5nLiBsZXQncyBnZXQgaXQgc3RhcnRlZC4KCgo=
++++
+title = "2. Architecture Diagram"
+weight = 2
++++
+
+
+Take a first look at what we’ll build:
+
+
+![image.png](/images/001-i-introduction/3-854783-image.png)
+
+
+Diagram convention:
+
+
+```bash
+Example:
+EC2 - AWS - EC2 Private
+Private IP - 10.10.1.x
+
+Explanation:
+- The naming convention is always: <Service> - <Service Name>
+Sample: EC2 - AWS - EC2 Private => <EC2> - <AWS - EC2 Private>
+
+- Other lines represent properties:
+Sample: Private IP - 10.10.1.x => <Properties>
+```
+
+
+That's everything. let's get it started.
+
+

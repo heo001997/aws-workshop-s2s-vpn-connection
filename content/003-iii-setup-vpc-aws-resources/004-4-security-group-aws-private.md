@@ -1,1 +1,12 @@
-KysrCnRpdGxlID0gIjQuIFNlY3VyaXR5IEdyb3VwIC0gQVdTIC0gUHJpdmF0ZSIKd2VpZ2h0ID0gNAorKysKCgpGaWxsIG91dCB0aGUgZm9ybSBhbmQgY2xpY2sgIkNyZWF0ZS4iIFRoaXMgd2lsbCAqKmFsbG93Kiogb3RoZXIgKipFQzIgaW5zdGFuY2VzKiogdG8gKipwaW5nIGFsbCBFQzIqKiAqKmluc3RhbmNlcyoqIGluIHRoZSBTdWJuZXQgLSAqKkFXUyAtIFByaXZhdGUgc3VibmV0KiogaWYgdGhleSBjYW4gcmVhY2ggZWFjaCBvdGhlci4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDMtaWlpLXNldHVwLXZwYy1hd3MtcmVzb3VyY2VzLzExLTg0ODAyNS1pbWFnZS5wbmcpCgoK
++++
+title = "4. Security Group - AWS - Private"
+weight = 4
++++
+
+
+Fill out the form and click "Create." This will **allow** other **EC2 instances** to **ping all EC2** **instances** in the Subnet - **AWS - Private subnet** if they can reach each other.
+
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/11-793448-image.png)
+
+

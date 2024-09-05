@@ -1,1 +1,15 @@
-KysrCnRpdGxlID0gIjIuIEN1c3RvbWVyIEdhdGV3YXkgLSBEQyAtIENHVyIKd2VpZ2h0ID0gMgorKysKCgpDcmVhdGUgYSBDdXN0b21lciBHYXRld2F5LCB0aGlzIHdpbGwgYmUgdXNlZCBmb3IgdGhlIFNpdGUtdG8tU2l0ZSBjb25uZWN0aW9uIHRvIGlkZW50aWZ5IHdoaWNoIGN1c3RvbWVyIGdhdGV3YXkgaXQgd2lsbCBjb25uZWN0IHRvLgoKClRoZSAqKklQIGFkZHJlc3MqKiBpcyB5b3VyICoqREMgLSBFQzIgLSBPcGVuc3dhbiBHYXRld2F5IElQdjQgUHVibGljIEFkZHJlc3MqKiAodGhlIHNhbWUgb25lIHdlIHVzZWQgZm9yIHRoZSBTU0ggY2hlY2spLgoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwNS12LXByZXBhcmUtZm9yLXNpdGUtdG8tc2l0ZS12cG4tYXdzLXRvLWRjLzI1LTE3NDA3Mi1pbWFnZS5wbmcpCgoK
++++
+title = "2. Customer Gateway - DC - CGW"
+weight = 2
++++
+
+
+Create a Customer Gateway, this will be used for the Site-to-Site connection to identify which customer gateway it will connect to.
+
+
+The **IP address** is your **DC - EC2 - Openswan Gateway IPv4 Public Address** (the same one we used for the SSH check).
+
+
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/25-854559-image.png)
+
+

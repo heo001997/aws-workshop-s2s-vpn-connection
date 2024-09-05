@@ -1,1 +1,6 @@
-KysrCnRpdGxlID0gIjYuIEVDMiAtIERDIC0gRUMyIE9wZW5zd2FuIEdhdGV3YXkiCndlaWdodCA9IDYKKysrCgoK
++++
+title = "6. EC2 - DC - EC2 Openswan Gateway"
+weight = 6
++++
+
+

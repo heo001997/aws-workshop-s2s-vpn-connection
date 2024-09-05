@@ -1,1 +1,21 @@
-KysrCnRpdGxlID0gIjIuIEdvb2RieWUgVlBDcyIKd2VpZ2h0ID0gMgorKysKCgpEZWxldGUgVlBDcyB3aXRoIHN1Ym5ldCB0b28sIG5pY2UKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDgtdmlpaS1jbGVhbi1pdC11cC8zNC02NjE2ODktaW1hZ2UucG5nKQoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwOC12aWlpLWNsZWFuLWl0LXVwLzM0LTE4NjA1My1pbWFnZS5wbmcpCgoKRGVsZXRlIEFXUyB3aXRoIGl04oCZcyBTdWJuZXQgdG9vCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvMzQtMzY5NjA1LWltYWdlLnBuZykKCgo=
++++
+title = "2. Goodbye VPCs"
+weight = 2
++++
+
+
+Delete VPCs with subnet too, nice
+
+
+![image.png](/images/008-viii-clean-it-up/34-895354-image.png)
+
+
+![image.png](/images/008-viii-clean-it-up/34-612005-image.png)
+
+
+Delete AWS with it’s Subnet too
+
+
+![image.png](/images/008-viii-clean-it-up/34-686729-image.png)
+
+

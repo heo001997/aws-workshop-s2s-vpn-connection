@@ -7,28 +7,28 @@ weight = 1
 This form is quite long, so we will fill it out step by step.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-652538-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-699505-image.png)
 
 
 Create a key pair to be able to SSH into AWS - EC2 - Private if you don’t already have one.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-979629-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-444351-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-157188-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-492291-image.png)
 
 
 Select the newly created key pair.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-224453-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-882030-image.png)
 
 
 Edit Network like this
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-960574-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/20-621430-image.png)
 
 
 We can click "Launch Instance" now, leaving the other settings at their defaults is fine.

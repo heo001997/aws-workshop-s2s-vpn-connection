@@ -10,7 +10,7 @@ In this workshop (WS), I’ll assume that you know how to find the corresponding
 Example: AWS search bar → VPC → Create VPC
 
 
-![image.png](/images/002-ii-prerequisites-cost-estimation/5-514413-image.png)
+![image.png](/images/002-ii-prerequisites-cost-estimation/5-920641-image.png)
 
 
 Additionally, we won’t delve deeply into IAM and roles, so I’ll assume that you already have an IAM user with the **AdministratorAccess** permissions policy.

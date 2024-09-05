@@ -7,30 +7,30 @@ weight = 1
 Create a new Virtual Private Gateway - **AWS - PGW**
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-691024-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-100217-image.png)
 
 
 Refresh the page if it says "Success" but shows nothing.
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-904873-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-509504-image.png)
 
 
 Select and attach it to **VPC - AWS**
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-876660-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-995959-image.png)
 
 
 Edit the Route Table - **AWS - Private** so it can route traffic from this VGW.
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-549942-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-467470-image.png)
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-368344-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-686187-image.png)
 
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-585858-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/24-172342-image.png)
 
 

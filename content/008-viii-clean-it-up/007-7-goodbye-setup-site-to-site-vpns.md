@@ -1,9 +1,1 @@
-+++
-title = "7. Goodbye Setup Site-to-Site VPNs"
-weight = 7
-+++
-
-
-![image.png](/images/008-viii-clean-it-up/39-722350-image.png)
-
-
+KysrCnRpdGxlID0gIjcuIEdvb2RieWUgU2V0dXAgU2l0ZS10by1TaXRlIFZQTnMiCndlaWdodCA9IDcKKysrCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvMzktMTIxNTIwLWltYWdlLnBuZykKCgo=

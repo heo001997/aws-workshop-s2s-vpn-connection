@@ -1,7 +1,1 @@
-+++
-archetype = "chapter"
-title = "V. Prepare for Site-to-Site VPN - AWS to DC"
-weight = 5
-+++
-
-
+KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJWLiBQcmVwYXJlIGZvciBTaXRlLXRvLVNpdGUgVlBOIC0gQVdTIHRvIERDIgp3ZWlnaHQgPSA1CisrKwoKCg==

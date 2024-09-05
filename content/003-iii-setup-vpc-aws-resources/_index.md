@@ -1,10 +1,1 @@
-+++
-archetype = "chapter"
-title = "III. Setup VPC AWS resources"
-weight = 3
-+++
-
-
-These resources will act as a regular AWS cluster, I won’t set up anything related to the site-to-site connection yet.
-
-
+KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJJSUkuIFNldHVwIFZQQyBBV1MgcmVzb3VyY2VzIgp3ZWlnaHQgPSAzCisrKwoKClRoZXNlIHJlc291cmNlcyB3aWxsIGFjdCBhcyBhIHJlZ3VsYXIgQVdTIGNsdXN0ZXIsIEkgd29u4oCZdCBzZXQgdXAgYW55dGhpbmcgcmVsYXRlZCB0byB0aGUgc2l0ZS10by1zaXRlIGNvbm5lY3Rpb24geWV0LgoKCg==

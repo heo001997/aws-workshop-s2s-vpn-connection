@@ -1,7 +1,1 @@
-+++
-archetype = "chapter"
-title = "VIII. Clean it up!!!"
-weight = 8
-+++
-
-
+KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJWSUlJLiBDbGVhbiBpdCB1cCEhISIKd2VpZ2h0ID0gOAorKysKCgo=

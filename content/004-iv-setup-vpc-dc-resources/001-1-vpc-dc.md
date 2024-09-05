@@ -1,12 +1,1 @@
-+++
-title = "1. VPC - DC"
-weight = 1
-+++
-
-
-Fill out the form and click "Create."
-
-
-![image.png](/images/004-iv-setup-vpc-dc-resources/14-851201-image.png)
-
-
+KysrCnRpdGxlID0gIjEuIFZQQyAtIERDIgp3ZWlnaHQgPSAxCisrKwoKCkZpbGwgb3V0IHRoZSBmb3JtIGFuZCBjbGljayAiQ3JlYXRlLiIKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xNC03NjYzNDYtaW1hZ2UucG5nKQoKCg==

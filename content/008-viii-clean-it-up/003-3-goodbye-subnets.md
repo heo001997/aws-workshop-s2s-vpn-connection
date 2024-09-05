@@ -1,9 +1,1 @@
-+++
-title = "3. Goodbye Subnets"
-weight = 3
-+++
-
-
-Should be auto deleted when VPC deleted
-
-
+KysrCnRpdGxlID0gIjMuIEdvb2RieWUgU3VibmV0cyIKd2VpZ2h0ID0gMworKysKCgpTaG91bGQgYmUgYXV0byBkZWxldGVkIHdoZW4gVlBDIGRlbGV0ZWQKCgo=

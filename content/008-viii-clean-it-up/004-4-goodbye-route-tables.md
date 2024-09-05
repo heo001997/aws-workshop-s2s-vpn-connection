@@ -1,9 +1,1 @@
-+++
-title = "4. Goodbye Route Tables"
-weight = 4
-+++
-
-
-Should be auto deleted when VPC deleted
-
-
+KysrCnRpdGxlID0gIjQuIEdvb2RieWUgUm91dGUgVGFibGVzIgp3ZWlnaHQgPSA0CisrKwoKClNob3VsZCBiZSBhdXRvIGRlbGV0ZWQgd2hlbiBWUEMgZGVsZXRlZAoKCg==

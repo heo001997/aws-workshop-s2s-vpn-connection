@@ -1,12 +1,1 @@
-+++
-title = "4. Security Group - DC - Public"
-weight = 4
-+++
-
-
-Fill out the form and click "Create." This will **allow** any client (computer, laptop, server, etc.) to **ping all EC2 instances** in the **Subnet - DC - Public** subnet if they can "see" each other.
-
-
-![image.png](/images/004-iv-setup-vpc-dc-resources/17-282493-image.png)
-
-
+KysrCnRpdGxlID0gIjQuIFNlY3VyaXR5IEdyb3VwIC0gREMgLSBQdWJsaWMiCndlaWdodCA9IDQKKysrCgoKRmlsbCBvdXQgdGhlIGZvcm0gYW5kIGNsaWNrICJDcmVhdGUuIiBUaGlzIHdpbGwgKiphbGxvdyoqIGFueSBjbGllbnQgKGNvbXB1dGVyLCBsYXB0b3AsIHNlcnZlciwgZXRjLikgdG8gKipwaW5nIGFsbCBFQzIgaW5zdGFuY2VzKiogaW4gdGhlICoqU3VibmV0IC0gREMgLSBQdWJsaWMqKiBzdWJuZXQgaWYgdGhleSBjYW4gInNlZSIgZWFjaCBvdGhlci4KCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDQtaXYtc2V0dXAtdnBjLWRjLXJlc291cmNlcy8xNy04NjAyNzktaW1hZ2UucG5nKQoKCg==

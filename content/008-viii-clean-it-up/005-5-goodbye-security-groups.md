@@ -1,9 +1,1 @@
-+++
-title = "5. Goodbye Security Groups"
-weight = 5
-+++
-
-
-Should be auto deleted when VPC deleted
-
-
+KysrCnRpdGxlID0gIjUuIEdvb2RieWUgU2VjdXJpdHkgR3JvdXBzIgp3ZWlnaHQgPSA1CisrKwoKClNob3VsZCBiZSBhdXRvIGRlbGV0ZWQgd2hlbiBWUEMgZGVsZXRlZAoKCg==

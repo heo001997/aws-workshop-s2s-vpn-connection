@@ -1,12 +1,1 @@
-+++
-title = "8. Goodbye Virtual Private Gateways"
-weight = 8
-+++
-
-
-![image.png](/images/008-viii-clean-it-up/40-891034-image.png)
-
-
-![image.png](/images/008-viii-clean-it-up/40-259707-image.png)
-
-
+KysrCnRpdGxlID0gIjguIEdvb2RieWUgVmlydHVhbCBQcml2YXRlIEdhdGV3YXlzIgp3ZWlnaHQgPSA4CisrKwoKCiFbaW1hZ2UucG5nXSgvaW1hZ2VzLzAwOC12aWlpLWNsZWFuLWl0LXVwLzQwLTU3NTUxMC1pbWFnZS5wbmcpCgoKIVtpbWFnZS5wbmddKC9pbWFnZXMvMDA4LXZpaWktY2xlYW4taXQtdXAvNDAtMTc2MTkyLWltYWdlLnBuZykKCgo=

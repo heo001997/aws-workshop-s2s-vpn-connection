@@ -1,9 +1,1 @@
-+++
-title = "1. Goodbye EC2 instances"
-weight = 1
-+++
-
-
-![image.png](/images/008-viii-clean-it-up/33-178913-image.png)
-
-
+KysrCnRpdGxlID0gIjEuIEdvb2RieWUgRUMyIGluc3RhbmNlcyIKd2VpZ2h0ID0gMQorKysKCgohW2ltYWdlLnBuZ10oL2ltYWdlcy8wMDgtdmlpaS1jbGVhbi1pdC11cC8zMy0yMDMyNTEtaW1hZ2UucG5nKQoKCg==

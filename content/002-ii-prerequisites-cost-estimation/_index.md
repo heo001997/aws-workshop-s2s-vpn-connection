@@ -1,10 +1,1 @@
-+++
-archetype = "chapter"
-title = "II. Prerequisites & Cost Estimation"
-weight = 2
-+++
-
-
-In this section, we will lay the groundwork for the workshop by covering the necessary prerequisites and providing a detailed cost estimation, particularly with the AWS Free Tier in mind.
-
-
+KysrCmFyY2hldHlwZSA9ICJjaGFwdGVyIgp0aXRsZSA9ICJJSS4gUHJlcmVxdWlzaXRlcyAmIENvc3QgRXN0aW1hdGlvbiIKd2VpZ2h0ID0gMgorKysKCgpJbiB0aGlzIHNlY3Rpb24sIHdlIHdpbGwgbGF5IHRoZSBncm91bmR3b3JrIGZvciB0aGUgd29ya3Nob3AgYnkgY292ZXJpbmcgdGhlIG5lY2Vzc2FyeSBwcmVyZXF1aXNpdGVzIGFuZCBwcm92aWRpbmcgYSBkZXRhaWxlZCBjb3N0IGVzdGltYXRpb24sIHBhcnRpY3VsYXJseSB3aXRoIHRoZSBBV1MgRnJlZSBUaWVyIGluIG1pbmQuCgoK

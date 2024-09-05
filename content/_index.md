@@ -1,6 +1,1 @@
-+++
-archetype = "home"
-title = "Workshop - Site-to-Site VPN - AWS to Datacenter"
-+++
-
-Discover what this workshop is all about and the core-concepts behind it.
+KysrCmFyY2hldHlwZSA9ICJob21lIgp0aXRsZSA9ICJXb3Jrc2hvcCAtIFNpdGUtdG8tU2l0ZSBWUE4gLSBBV1MgdG8gRGF0YWNlbnRlciIKKysrCgpEaXNjb3ZlciB3aGF0IHRoaXMgd29ya3Nob3AgaXMgYWxsIGFib3V0IGFuZCB0aGUgY29yZS1jb25jZXB0cyBiZWhpbmQgaXQuCg==

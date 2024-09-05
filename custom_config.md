@@ -1,4 +1,1 @@
-<details>
-<summary>Custom Configuration</summary>
-<details>
-<summary>thumbnail.png</summary>
+PGRldGFpbHM+CjxzdW1tYXJ5PkN1c3RvbSBDb25maWd1cmF0aW9uPC9zdW1tYXJ5Pgo8ZGV0YWlscz4KPHN1bW1hcnk+dGh1bWJuYWlsLnBuZzwvc3VtbWFyeT4K

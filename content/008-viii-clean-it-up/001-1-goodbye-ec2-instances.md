@@ -4,6 +4,6 @@ weight = 1
 +++
 
 
-![image.png](/images/008-viii-clean-it-up/33-215477-image.png)
+![image.png](/images/008-viii-clean-it-up/33-613008-image.png)
 
 

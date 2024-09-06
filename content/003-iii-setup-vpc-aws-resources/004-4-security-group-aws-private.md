@@ -7,6 +7,6 @@ weight = 4
 Fill out the form and click "Create." This will **allow** other **EC2 instances** to **ping all EC2** **instances** in the Subnet - **AWS - Private subnet** if they can reach each other.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/11-927687-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/11-534526-image.png)
 
 

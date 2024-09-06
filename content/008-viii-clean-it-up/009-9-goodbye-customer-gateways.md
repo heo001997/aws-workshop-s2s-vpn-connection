@@ -4,7 +4,7 @@ weight = 9
 +++
 
 
-![image.png](/images/008-viii-clean-it-up/41-968682-image.png)
+![image.png](/images/008-viii-clean-it-up/41-156454-image.png)
 
 
 We’re now as clean as a whistle. 

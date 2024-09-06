@@ -7,15 +7,15 @@ weight = 2
 Delete VPCs with subnet too, nice
 
 
-![image.png](/images/008-viii-clean-it-up/34-231087-image.png)
+![image.png](/images/008-viii-clean-it-up/34-187115-image.png)
 
 
-![image.png](/images/008-viii-clean-it-up/34-387990-image.png)
+![image.png](/images/008-viii-clean-it-up/34-979559-image.png)
 
 
 Delete AWS with it’s Subnet too
 
 
-![image.png](/images/008-viii-clean-it-up/34-829106-image.png)
+![image.png](/images/008-viii-clean-it-up/34-735410-image.png)
 
 

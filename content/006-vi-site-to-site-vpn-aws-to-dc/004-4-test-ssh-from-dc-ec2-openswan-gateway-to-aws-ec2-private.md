@@ -7,16 +7,16 @@ weight = 4
 First, we edit the Security Group - **AWS - Private** to allow SSH from **DC - EC2 Openswan Gateway**.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-749139-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-727055-image.png)
 
 
 Fill in the IPv4 Private address of **DC - EC2 Openswan Gateway** with a subnet mask of /32.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-396135-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-806940-image.png)
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-155008-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-576164-image.png)
 
 
 Now we’re allowed to SSH into **AWS - Private** if the connecting IP matches.
@@ -25,7 +25,7 @@ Now we’re allowed to SSH into **AWS - Private** if the connecting IP matches.
 If you’re wondering why it’s an **IPv4 Private** address, it’s because the VPN connection is already set up. The two servers now think they’re on the same network, they no longer consider themselves connected through the internet, so they use IPv4 Private addresses to connect.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-832669-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-181048-image.png)
 
 
 If we want SSH to be possible, we will need to transfer the **AWS - EC2 Private** key (`aws-ec2-private.pem`) from our local machine to **DC - EC2 Openswan Gateway**.

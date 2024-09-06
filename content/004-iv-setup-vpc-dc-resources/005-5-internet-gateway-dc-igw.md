@@ -7,30 +7,30 @@ weight = 5
 Create an Internet Gateway - DC - IGW to allow the DC - VPC to connect to the internet.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-456701-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-354894-image.png)
 
 
 Attach it to **VPC - DC**
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-327350-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-141506-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-848385-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-104536-image.png)
 
 
 Go back to the Route Table and edit it to accept the attached Internet Gateway.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-798691-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-370979-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-464905-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-397541-image.png)
 
 
 The route should look like this
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-806569-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-563235-image.png)
 
 

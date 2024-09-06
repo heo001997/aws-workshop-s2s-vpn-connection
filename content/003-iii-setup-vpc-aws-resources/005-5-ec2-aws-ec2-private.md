@@ -7,34 +7,34 @@ weight = 5
 This form is quite long, so we will fill it out step by step.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-562892-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-602514-image.png)
 
 
 Create a key pair to be able to SSH into **AWS - EC2 - Private** if you don’t already have one.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-888137-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-189237-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-594873-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-969484-image.png)
 
 
 After creating the key pair, you can select it now.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-778249-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-578549-image.png)
 
 
 For network settings, we will edit them as follows:
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-348943-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-346051-image.png)
 
 
 We can click "Launch Instance" now, leaving the other settings at their defaults is fine.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-734091-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-415847-image.png)
 
 
 Now, we’re done setting up the VPC AWS resources!

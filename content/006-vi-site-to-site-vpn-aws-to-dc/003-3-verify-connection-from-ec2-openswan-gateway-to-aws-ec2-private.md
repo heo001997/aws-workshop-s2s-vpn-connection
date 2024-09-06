@@ -7,7 +7,7 @@ weight = 3
 Double-check if it’s truly connected to **AWS - EC2 Private’s** Private IPv4.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/29-739969-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/29-163205-image.png)
 
 
 ```bash
@@ -36,7 +36,7 @@ rtt min/avg/max/mdev = 1.532/1.796/2.079/0.193 ms
 If we can ping, then Tunnel 1 in the VPN connection details must be Up. If the status is still Down for both tunnels, it’s likely because it takes some time to re-check the connection.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/29-222281-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/29-414294-image.png)
 
 
 In this workshop, I’ll only use one tunnel, because with my current Static IP VPN connection strategy, it would cause **random asymmetric routing** if I use 2 tunnels in my VPN. You can still use 2 tunnels and avoid this issue by using a Dynamic IP (try it if you’re a curious cat).

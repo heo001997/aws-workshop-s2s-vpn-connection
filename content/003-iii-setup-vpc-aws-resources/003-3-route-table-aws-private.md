@@ -7,18 +7,18 @@ weight = 3
 Do the same as above: fill out the form and click "Create."
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-176113-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-652495-image.png)
 
 
 Add subnet association, this will allow the **Subnet - AWS - Private subnet** to follow the **Route Table - AWS - Private**’s routes.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-703089-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-463437-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-752744-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-847648-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-215739-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-364953-image.png)
 
 

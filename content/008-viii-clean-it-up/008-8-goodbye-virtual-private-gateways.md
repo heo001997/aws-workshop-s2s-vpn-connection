@@ -4,9 +4,9 @@ weight = 8
 +++
 
 
-![image.png](/images/008-viii-clean-it-up/40-888554-image.png)
+![image.png](/images/008-viii-clean-it-up/40-317166-image.png)
 
 
-![image.png](/images/008-viii-clean-it-up/40-180786-image.png)
+![image.png](/images/008-viii-clean-it-up/40-965990-image.png)
 
 

@@ -7,13 +7,13 @@ weight = 2
 Click "Download Configuration" We will use this configuration to set up our Openswan gateway.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-893355-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-209470-image.png)
 
 
 Select the options as shown, and click "Download"
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-886596-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-833703-image.png)
 
 
 Open that file, and you can see all the instructions. You can read it to learn more details.

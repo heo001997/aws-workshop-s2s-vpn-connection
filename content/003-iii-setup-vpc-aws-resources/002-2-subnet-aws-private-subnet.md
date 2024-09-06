@@ -7,6 +7,6 @@ weight = 2
 Fill out the form and click "Create."
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/9-556791-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/9-746656-image.png)
 
 

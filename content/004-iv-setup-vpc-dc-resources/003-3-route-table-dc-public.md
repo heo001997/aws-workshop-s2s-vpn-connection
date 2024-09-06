@@ -4,18 +4,18 @@ weight = 3
 +++
 
 
-Do the same as above: fill out the form and click "Create".
+Fill out the form and click "Create".
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-905647-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-371546-image.png)
 
 
 Associate this route with the **DC - Public subnet**.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-784712-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-636278-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-610076-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-907041-image.png)
 
 

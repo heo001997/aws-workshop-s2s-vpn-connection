@@ -4,9 +4,9 @@ weight = 2
 +++
 
 
-Do the same as above: fill out the form and click "Create."
+Fill out the form and click "Create."
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/9-452273-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/9-651739-image.png)
 
 

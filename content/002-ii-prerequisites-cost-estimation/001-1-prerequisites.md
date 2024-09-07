@@ -10,7 +10,7 @@ In this workshop (WS), I’ll assume that you know how to find the corresponding
 Example: AWS search bar → VPC → Create VPC
 
 
-![image.png](/images/002-ii-prerequisites-cost-estimation/5-286883-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/41a12c32-2653-473d-80cc-09f6ca626354/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192237Z&X-Amz-Expires=3600&X-Amz-Signature=f9ae3a9c62050442eca58fee80ad6eecff0b9fe4dcb6635cb4840296ad48af78&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 Additionally, we won’t delve deeply into IAM and roles, so I’ll assume that you already have an IAM user with the **AdministratorAccess** permissions policy.

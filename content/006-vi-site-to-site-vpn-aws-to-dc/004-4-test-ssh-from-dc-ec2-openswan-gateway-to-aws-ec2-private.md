@@ -7,16 +7,16 @@ weight = 4
 First, we edit the Security Group - **AWS - Private** to allow SSH from **DC - EC2 Openswan Gateway**.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-654835-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/255fe5cf-8ee6-4d87-8eb9-5e7bef5c3843/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192240Z&X-Amz-Expires=3600&X-Amz-Signature=586aa5013c4785ee4c38e5320afcfe5bf94ffe59f2dfa47d95e1af7991eab5db&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 Fill in the IPv4 Private address of **DC - EC2 Openswan Gateway** with a subnet mask of /32.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-650379-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/59471b7d-398e-4600-b61a-6f1de86abd3a/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192240Z&X-Amz-Expires=3600&X-Amz-Signature=708481de8e6dd9a78e237dee20504fa9ecdbde893e1a0d7376c898c5780d074e&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-614909-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/c9c35b04-9b5e-4767-bee5-b8457fe57dee/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192240Z&X-Amz-Expires=3600&X-Amz-Signature=265af0ecadf710b073f0e742d52615f69ef4ef3963fc55c1016c0847c05bd0cf&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 Now we’re allowed to SSH into **AWS - Private** if the connecting IP matches.
@@ -25,7 +25,7 @@ Now we’re allowed to SSH into **AWS - Private** if the connecting IP matches.
 If you’re wondering why it’s an **IPv4 Private** address, it’s because the VPN connection is already set up. The two servers now think they’re on the same network, they no longer consider themselves connected through the internet, so they use IPv4 Private addresses to connect.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/30-170514-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/09747000-41dd-49e7-ad83-b1ab40f340c7/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192240Z&X-Amz-Expires=3600&X-Amz-Signature=dac238ad3f7393070e8636ac11b38540d03adfc0322020fda6adeb13460fcf1a&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 If we want SSH to be possible, we will need to transfer the **AWS - EC2 Private** key (`aws-ec2-private.pem`) from our local machine to **DC - EC2 Openswan Gateway**.

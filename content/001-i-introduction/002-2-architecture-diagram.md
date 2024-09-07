@@ -7,7 +7,7 @@ weight = 2
 Take a first look at what we’ll build:
 
 
-![image.png](/images/001-i-introduction/3-477989-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/57a35495-f431-43ff-a13b-c130f4476d5e/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192237Z&X-Amz-Expires=3600&X-Amz-Signature=00b152028f131679c115dcdb72de8427ce2cbde6ce964e9d4b8a94f6c922b836&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 Diagram convention:

@@ -10,12 +10,12 @@ Fill out the form as follows, with explanations:
 2. **Local IPv4 Network CIDR:** Fill in our **VPC - DC** CIDR **(192.168.0.0/16)**.
 3. **Remote IPv4 Network CIDR:** Fill in our **VPC - AWS** CIDR **(10.10.0.0/16)**.
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-212535-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/9d504ed3-e661-48c3-bdad-49e63cd32849/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192239Z&X-Amz-Expires=3600&X-Amz-Signature=124a775e4881a4512bea68c45ec59ab0004e6f853c730d0c619c1013a434372f&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 That’s everything, click "Create" You should see the new VPN connection from **AWS to DC**. We will move on to the next step while waiting for this VPN to be ready.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-355011-image.png)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/a1e2e5d9-c7f5-4910-9e33-66561c005baf/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192239Z&X-Amz-Expires=3600&X-Amz-Signature=9953f18ba6218bd24294da05ae5c8a70c5f6fd08301876127d57c1c01691c2c1&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 

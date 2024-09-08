@@ -7,7 +7,7 @@ weight = 2
 Let’s go to the Instance Details, you can see that DC - EC2 Openswan Gateway is already up with a Public IPv4 address.
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/79c40755-2a43-4aa6-a1c5-d8aefe0fd69c/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192239Z&X-Amz-Expires=3600&X-Amz-Signature=7e249648d4a9022402ab70be9c96009f78d62096a9a6d13abb5897cc31cf1f40&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/21-810924-image.png)
 
 
 Open your terminal and connect via SSH to the **DC - EC2 Openswan Gateway** using the `dc-ec2-openswan-gateway.pem` file we already downloaded.

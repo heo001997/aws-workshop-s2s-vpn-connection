@@ -7,13 +7,13 @@ weight = 2
 Click "Download Configuration" We will use this configuration to set up our Openswan gateway.
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/6f70348e-d33e-45dd-8a40-a1f9bb8e07e5/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192239Z&X-Amz-Expires=3600&X-Amz-Signature=7d1784d96116acec74023d8a2b837bc5cc12894322d71c6faa37e5aee4ca86fc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-115488-image.png)
 
 
 Select the options as shown, and click "Download"
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5da4832-3825-4b06-9f7d-86c687d890a2/a86bca94-8776-41fb-b791-37ad1ceeea70/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240907T192239Z&X-Amz-Expires=3600&X-Amz-Signature=5666b94c2c31d9fdac20e56a877ee8ef3521d3e763ac13b92ea31becaaa87137&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/28-855794-image.png)
 
 
 Open that file, and you can see all the instructions. You can read it to learn more details.

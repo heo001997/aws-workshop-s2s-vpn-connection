@@ -5,6 +5,6 @@ weight = 3
 +++
 
 
-These resources will act as a regular AWS cluster, I won’t set up anything related to the site-to-site connection yet.
+These resources will act as a standard AWS cluster, I won’t set up anything related to the Site-to-Site connection yet.
 
 

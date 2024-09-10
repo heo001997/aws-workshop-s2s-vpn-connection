@@ -7,15 +7,15 @@ weight = 3
 Fill out the form and click "Create".
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-197820-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-213751-image.png)
 
 
-Associate this route with the **DC - Public subnet**.
+Associate this Route Table with the **DC - Public Subnet** to allow traffic to route properly.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-715835-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-515238-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/16-105752-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/16-347064-image.png)
 
 

@@ -7,10 +7,10 @@ weight = 2
 Take a first look at what we’ll build:
 
 
-![image.png](/images/001-i-introduction/3-899075-image.png)
+![image.png](/images/001-i-introduction/3-854736-image.png)
 
 
-Diagram convention:
+Diagram conventions:
 
 
 ```bash
@@ -27,6 +27,6 @@ Sample: Private IP - 10.10.1.x => <Properties>
 ```
 
 
-That's everything. let's get it started.
+That's everything. Let’s get started.
 
 

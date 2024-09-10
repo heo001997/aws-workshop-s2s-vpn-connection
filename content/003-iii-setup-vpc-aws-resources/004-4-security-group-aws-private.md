@@ -4,9 +4,14 @@ weight = 4
 +++
 
 
-Fill out the form and click "Create." This will **allow** other **EC2 instances** to **ping all EC2** **instances** in the Subnet - **AWS - Private subnet** if they can reach each other.
+Fill out the form and click "Create." This will **allow other EC2 instances** in the **AWS - Private Subnet** to **ping each other** if they are reachable.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/11-603375-image.png)
+**ICMP** is widely used in network diagnostic tools:
+
+- **Ping**: Uses ICMP Echo Request and Echo Reply messages to test connectivity.
+- **Traceroute**: Uses ICMP to trace the path a packet takes to its destination.
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/11-463817-image.png)
 
 

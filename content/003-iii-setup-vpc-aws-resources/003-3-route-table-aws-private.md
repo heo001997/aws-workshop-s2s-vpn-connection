@@ -4,21 +4,27 @@ weight = 3
 +++
 
 
-Do the same as above: fill out the form and click "Create."
+Fill out the form and click "Create"
+
+- Name: AWS - Private
+- VPC: AWS
+
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-363369-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-927448-image.png)
+Add subnet association to allow the **Subnet - AWS - Private** to follow the **Route Table - AWS - Private** routes.
 
 
-Add subnet association, this will allow the **Subnet - AWS - Private subnet** to follow the **Route Table - AWS - Private**’s routes.
+A Route Table can belong to many Subnets, but each Subnet can have only one Route Table.
+In other words, the relationship is **Route Table (1) → Subnets (N)**.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-497126-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-996412-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-968024-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-131528-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/10-331028-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/10-723907-image.png)
 
 

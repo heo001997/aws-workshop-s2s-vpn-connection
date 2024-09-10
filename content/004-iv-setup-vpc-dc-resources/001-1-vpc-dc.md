@@ -4,9 +4,9 @@ weight = 1
 +++
 
 
-Fill out the form and click "Create."
+Since we’re quite familiar with all these definition, we’ll just fill out the form and click "Create."
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/14-301451-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/14-202474-image.png)
 
 

@@ -13,7 +13,7 @@ I suggest that this lab should take a maximum of 1.5 hours to set up, test, and 
 I’m completely ignoring data costs because the data cost in this lab is VERY, VERY LITTLE (< $0.01).
 
 
-I’ve optimized the order of enabling services to get the most cost-effective setup, so be very confident in following this workshop line by line.
+I’ve optimized the service enablement order to get the most cost-effective setup, so be confident in following this workshop step-by-step.
 
 
 This is the cost table for my workshop per lab.
@@ -33,6 +33,6 @@ This is the cost table for my workshop per lab.
 | 9  | Site-to-Site VPN Connections | $0.05   | 1    | 30                        | $0.025                      |
 
 
-So, the final cost should be a maximum of **$0.025** for your total 1.5-hour usage time.
+So, the final cost should be a maximum of **$0.025** for your total **1.5-hour usage time**.
 
 

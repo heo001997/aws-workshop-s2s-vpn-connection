@@ -4,13 +4,13 @@ weight = 1
 +++
 
 
-In this workshop (WS), I’ll assume that you know how to find the corresponding actions. For example, in the image below, you know you can navigate to this screen by following the breadcrumb navigation.
+In this workshop (WS), I’ll assume that you know how to navigate the corresponding actions. For example, as shown below, you know you can navigate to this screen by following the breadcrumb navigation.
 
 
 Example: AWS search bar → VPC → Create VPC
 
 
-![image.png](/images/002-ii-prerequisites-cost-estimation/5-358000-image.png)
+![image.png](/images/002-ii-prerequisites-cost-estimation/5-221587-image.png)
 
 
 Additionally, we won’t delve deeply into IAM and roles, so I’ll assume that you already have an IAM user with the **AdministratorAccess** permissions policy.

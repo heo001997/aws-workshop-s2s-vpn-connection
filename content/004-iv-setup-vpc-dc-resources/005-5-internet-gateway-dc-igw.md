@@ -4,33 +4,35 @@ weight = 5
 +++
 
 
-Create an Internet Gateway - DC - IGW to allow the DC - VPC to connect to the internet.
+Although we created a **Security Group (for SSH and Ping)** and a **Route Table (for IP routing)**, we still need an **Internet Gateway** to allow EC2 instances to connect to the internet.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-996128-image.png)
+Create an **Internet Gateway (IGW)** called **DC - IGW** to enable the **DC - VPC** to connect to the internet.
 
 
-Attach it to **VPC - DC**
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-946525-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-840056-image.png)
+Attach the **Internet Gateway** to **VPC - DC** and go back to the **Route Table** to edit it so that it accepts the newly attached **Internet Gateway**.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-318876-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-708458-image.png)
 
 
-Go back to the Route Table and edit it to accept the attached Internet Gateway.
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-813116-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-244730-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-824342-image.png)
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-222837-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-265167-image.png)
 
 
-The route should look like this
+The route should look like this:
 
+- Destination: **0.0.0.0/0**
+	- Target: **DC - IGW**
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/18-940202-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/18-624603-image.png)
 
 

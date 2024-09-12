@@ -7,7 +7,7 @@ weight = 2
 Take a first look at what we will build:
 
 
-![image.png](/images/001-i-introduction/3-207329-image.png)
+![image.png](/images/001-i-introduction/3-965402-image.png)
 
 
 Diagram conventions:

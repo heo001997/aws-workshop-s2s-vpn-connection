@@ -13,12 +13,12 @@ Create the Site-to-Site VPN connection, and fill out the form as follows:
 - Local IPv4 Network CIDR: Fill in our **VPC - DC** CIDR **(192.168.0.0/16)**.
 - Remote IPv4 Network CIDR: Fill in our **VPC - AWS** CIDR **(10.10.0.0/16)**.
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-888335-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-937903-image.png)
 
 
 After creating the VPN connection, you should see the **new VPN connection** from AWS to DC. While waiting for the VPN to be ready in about 10 minutes, move on to the next steps.
 
 
-![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-922520-image.png)
+![image.png](/images/006-vi-site-to-site-vpn-aws-to-dc/27-534186-image.png)
 
 

@@ -12,6 +12,6 @@ Fill out the form and click "Create." This will **allow other EC2 instances** in
 - **Ping**: Uses ICMP Echo Request and Echo Reply messages to test connectivity.
 - **Traceroute**: Uses ICMP to trace the path a packet takes to its destination.
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/11-463817-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/11-421139-image.png)
 
 

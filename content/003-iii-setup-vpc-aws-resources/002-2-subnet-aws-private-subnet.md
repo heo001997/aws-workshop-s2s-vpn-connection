@@ -23,6 +23,6 @@ Fill out the form and click "Create"
 		- **10.10.1.3**: Reserved for future use
 		- **10.10.1.255**: Broadcast address (not used in AWS but still reserved)
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/9-336192-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/9-144058-image.png)
 
 

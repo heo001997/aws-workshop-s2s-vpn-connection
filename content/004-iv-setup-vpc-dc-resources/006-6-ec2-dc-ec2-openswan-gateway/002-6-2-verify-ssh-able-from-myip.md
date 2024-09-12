@@ -7,7 +7,7 @@ weight = 2
 Navigate to the **Instance Details** for **DC - EC2 Openswan Gateway**. You’ll see that it has been launched with a **Public IPv4 address**.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/21-856585-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/006-6-ec2-dc-ec2-openswan-gateway/21-653280-image.png)
 
 
 Open your terminal and connect via SSH to the **DC - EC2 Openswan Gateway** using the `dc-ec2-openswan-gateway.pem` file we already downloaded.

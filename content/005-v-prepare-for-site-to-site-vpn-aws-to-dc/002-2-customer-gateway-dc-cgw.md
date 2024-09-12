@@ -17,6 +17,6 @@ Next, create a **Customer Gateway** to represent your on-premises data center’
 - Device: None
 ⇒ You can name the device as needed, but this field is optional.
 
-![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/25-182900-image.png)
+![image.png](/images/005-v-prepare-for-site-to-site-vpn-aws-to-dc/25-174271-image.png)
 
 

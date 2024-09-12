@@ -17,7 +17,7 @@ First things first, fill out the form and click "Create"
 - Tenancy: Default (Shared Tenancy)
 ⇒ Shared tenancy is sufficient, we don’t actually care about where this VPC hosted on physical servers.
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/8-947968-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/8-509048-image.png)
 
 
 (Optional) Other options that I did not select, I encourage you to explore on your own to gain a deeper understanding. Here are some TLDRs and additional details you might find interesting:

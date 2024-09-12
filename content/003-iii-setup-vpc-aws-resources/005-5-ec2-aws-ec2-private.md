@@ -10,22 +10,22 @@ This form is quite long, so we will fill it out step by step.
 - [Amazon Machine Image (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html): Amazon Linux 2 AMI
 ⇒ This will be the OS (Operation system) for this EC2 instance. While there is no best AMI, we chose Amazon Linux 2 for **convenience when installing Openswan VPN.**
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-269667-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-579574-image.png)
 
 
 Create [a key pair to be able to SSH](/5731ccef72a94529839b57e5ee138276) into **AWS - EC2 - Private** if you don’t already have one.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-772176-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-995184-image.png)
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-626002-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-389810-image.png)
 
 
 After creating the key pair, you can select it now.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-479040-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-668179-image.png)
 
 
 For network settings, we will edit them as follows:
@@ -37,13 +37,13 @@ For network settings, we will edit them as follows:
 - Select existing security group: AWS - Private
 ⇒ Our security group will allow **other instances** in the **same private subnet** to **communicate** via ICMP and Ping.
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-585400-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-133810-image.png)
 
 
 We can click "Launch Instance" now, leaving the other settings at their defaults is fine.
 
 
-![image.png](/images/003-iii-setup-vpc-aws-resources/12-848419-image.png)
+![image.png](/images/003-iii-setup-vpc-aws-resources/12-519867-image.png)
 
 
 Now, we’re done setting up the VPC AWS resources!

@@ -13,6 +13,6 @@ Since this is a **public subnet**, the resources (e.g., EC2) inside will be **ex
 **Only allow My IP** to SSH because we don’t want these EC2 instances to be accessible by any IPs other than my current one.
 
 
-![image.png](/images/004-iv-setup-vpc-dc-resources/17-569553-image.png)
+![image.png](/images/004-iv-setup-vpc-dc-resources/17-228618-image.png)
 
 

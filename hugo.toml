@@ -12,6 +12,7 @@ theme = 'hugo-theme-relearn'
   author.name = "Tu Ricky"
   disableLandingPageButton = true
   collapsibleMenu = true
+  miniMapImage = "/images/mini-map.png"
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Branding
